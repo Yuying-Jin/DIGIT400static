@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-markdown: kramdown
 title: Yuying Jin's Portfolio Website
 name: Yuying Jin
 email: your-email@example.com
 description: representing my digital projects- # this means to ignore newlines until "baseurl:"
 timezone: America/New_York
-baseurl: "DIGIT400" # the subpath of your site, e.g. /blog
-url: "https://yuying-jin.github.io/DIGIT400/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yuying-jin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
   
