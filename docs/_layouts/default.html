@@ -3,23 +3,23 @@
     <head>
         <title>{{ page.title }}</title>
         <!-- link to main stylesheet -->
-        <link rel="stylesheet" type="text/css" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href="../webstyle.css">
         
         {% feed_meta %}
         {% seo %}
     </head>
     <body>
+    <header><h1>Yuying Jin</h1><h2>Digital Portfolio</h2></header>
         {% include nav.html %}
-        <h1>{{ page.title }}</h1>
         <div class="container">
-            
+            <h1>{{ page.title }}</h1>
             {{ content }}
             
         </div><!-- /.container -->
         <footer>
             <ul>
                 <li><a href="yxj5181@psu.edu">email</a></li>
-                <li><a href="https://github.com/Yuying-Jin">github.com/Yuying-Jin</a></li>
+                <li><a href="https://github.com/Yuying-Jin/DIGIT400">github</a></li>
             </ul>
         </footer>
     </body>
