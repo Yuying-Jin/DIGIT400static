@@ -1,8 +1,8 @@
 - name: Home
-  link: /DIGIT400
+  link: /
 - name: About
-  link: /DIGIT400/about.html
+  link: /about.html
 - name: CV
-  link: /DIGIT400/cv.html
+  link: /cv.html
 - name: Gallery
-  link: /DIGIT400/gallery.html
+  link: /gallery.html
