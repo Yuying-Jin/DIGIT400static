@@ -8,19 +8,37 @@
         {% feed_meta %}
         {% seo %}
     </head>
-    <body>
+    <body id="top">
+    <p>{{ window.screenX }}</p>
     <header><h1>Yuying Jin</h1><h2>Digital Portfolio</h2></header>
         {% include nav.html %}
         <div class="container">
             <h1>{{ page.title }}</h1>
             {{ content }}
-            
         </div><!-- /.container -->
         <footer>
             <ul>
                 <li><a href="yxj5181@psu.edu">email</a></li>
                 <li><a href="https://github.com/Yuying-Jin/DIGIT400">github</a></li>
             </ul>
+            <div id="license">
+                <a rel="license"
+                   href="http://creativecommons.org/licenses/by-nc/4.0/" style="position: relative">
+                    <img alt="Creative Commons License" style="position: absolute; border-width:0; width: 85px; top:2.5px;"
+                        src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
+                <span>This work is licensed under a
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+                    Creative Commons Attribution-NonCommercial 4.0 International License</a>
+                </span>
+            </div>
         </footer>
+
+    <a href="#top" >
+        <svg id="goToTop" viewBox="0 0 512 512">
+            <g>
+                <path d="M256 464c114.9 0 208-93.1 208-208S370.9 48 256 48 48 141.1 48 256s93.1 208 208 208zm0-244.5l-81.1 81.9c-7.5 7.5-19.8 7.5-27.3 0s-7.5-19.8 0-27.3l95.7-95.4c7.3-7.3 19.1-7.5 26.6-.6l94.3 94c3.8 3.8 5.7 8.7 5.7 13.7 0 4.9-1.9 9.9-5.6 13.6-7.5 7.5-19.7 7.6-27.3 0l-81-79.9z"/>
+            </g>
+        </svg>
+    </a>
     </body>
 </html>

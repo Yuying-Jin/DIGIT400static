@@ -4,4 +4,14 @@ title: Gallery
 url: "https://yuying-jin.github.io/DIGIT400/gallery.html"
 ---
 
-This is gallery.
+<section class="gallery">
+    <h1 class="center">My Digital Projects</h1>
+    <div class="cardContainer">
+    {% for item in site.data.project %}
+        <div class="card">
+            <img src="{{ item.img }}">
+            <a href="{{ item.github }}">Github</a>
+        </div>
+    {% endfor %}
+    </div>
+</section>

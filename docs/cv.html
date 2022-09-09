@@ -1,7 +1,66 @@
 ---
 layout: default
-title: CV
+title:
 url: "https://yuying-jin.github.io/DIGIT400/cv.html"
 ---
+<section class="center">
+    <a class="button" href="#">Download PDF</a>
+</section>
+<section class="resume">
+    <div class="cv-head">
+        <h1>Yuying Jin</h1>
+    </div>
+    <div class="cv-contact">
+        <ul>
+            <li>yxj5181@psu.edu</li>
+            <li>(814)-566-2001</li>
+        </ul>
+    </div>
 
-<p>This is CV.</p>
+    <div class="cv">
+        <h1>Education</h1>
+        <h2>Penn State Erie, The Behrend College</h2>
+        <ul>
+            Double major in:
+            <li>Computer Science, Bachelor of Science</li>
+            <li>Digital Media, Arts, and Technology (DIGIT), Bachelor of Art</li>
+            <li>Expected Graduation: 2024</li>
+        </ul>
+    </div>
+    <div class="cv">
+        <h1>Job Experience</h1>
+        {% for item in site.data.job %}
+        <div class="job">
+        <h2>{{ item.name }}</h2>
+        <h3>{{ item.time }}</h3>
+        <p>{{ item.desc }}</p>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="cv">
+        <h1>Digital Projects</h1>
+        {% for item in site.data.project %}
+        <div class="project">
+            <h2>{{ item.name }}</h2>
+            <ul>
+                <li>{{ item.desc }}</li>
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="cv">
+        <h1>Computer Skills</h1>
+        {% for category in site.data.skill.item %}
+        <div class="skill">
+            <h2>{{ category.title }}</h2>
+            <ul>
+                {% for skill in category.subitem %}
+                <li>{{ skill.name }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+</section>
