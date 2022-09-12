@@ -1,0 +1,22 @@
+item:
+  - title: Software
+    subitem:
+      - name: oXygen XML
+      - name: WebStorm
+      - name: Git & GitHub
+      - name: Adobe After Effects
+      - name: Adobe Photoshop
+      - name: Office 365
+      - name: Blender
+      - name: Meshroom
+  - title: Code Language
+    subitem:
+      - name: C++
+      - name: JavaScript
+      - name: HTML & CSS
+      - name: EJS
+      - name: Jekyll
+      - name: SVG
+      - name: XML
+      - name: Relax NG
+      - name: XSLT
