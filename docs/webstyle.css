@@ -3,7 +3,8 @@
     --orangeD: #FF8A00;
     --orangeDD: #673800;
     --grey: #575757;
-}
+    --greyD: #333333;
+}   
 *{
     margin:0;
     scroll-behavior: smooth;
@@ -32,11 +33,11 @@ header h2{
     right: 0;
     width: 50px;
     color: var(--orange);
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: "Comic Sans MS", Comic Sans, cursive;
 }
 .container{
     margin: 0 auto;
-    padding: 0 150px 0 150px;
+    padding: 0 10%;
 }
 .container h1{
     margin: 20px 0;
@@ -56,6 +57,7 @@ nav ul{
     padding: 5px 0px;
     overflow: hidden;
     margin:0;
+    z-index:99;
 }
 nav li {
     float: left;
@@ -176,32 +178,70 @@ nav a:hover {
     flex-direction: column;
     overflow: hidden;
 }
+.gallery h1{
+    margin: auto;
+    text-align: center;
+    
+}
 .cardContainer{
+    margin-top:20px;
     display: flex;
     flex-wrap:wrap;
 }
 .card{
-    width: 30.5%;
-    height: 300px;
+    background-color: var(--greyD);
+    width: 385px;
+    height: 400px;
     overflow: hidden;
     position: relative;
     display: flex;
-    border: 1px solid #777;
     margin:10px;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    
 }
 .card img{
     width: 90%;
-
+    height: 40%;
+    object-fit: cover;
+    margin: 5%;
     position: absolute;
     top:0;
     left:0;
+    border-radius: 5px;
+}
+.card h2{
+    width: 90%;
+    position: absolute;
+    top: 50%;
+    font-weight: normal;
+    font-size: 24px;
+    font-family: "Trebuchet MS", sans-serif; 
+
+}
+.card p{
+    width: 85%;
+    position: absolute;
+    top: 60%;
+    text-align: justify;
+    font-family: Tahoma, Verdana, sans-serif;
 }
 .card a{
+    --paddingL: 2%;
+    --left: calc(40% - var(--paddingL));
     position: absolute;
-    left:0;
-    bottom:0;
+    left: var(--left);
+    width: 20%;
+    bottom: 8%;
+    padding: 1% var(--paddingL);
+    background-color: var(--orange);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.card a:hover{
+    background-color:var(--orangeD);
 }
 
 
@@ -218,7 +258,7 @@ nav a:hover {
 
 
 footer{
-    background-color: #333333;
+    background-color: var(--greyD);
     color: white;
     left:0;
     bottom:0;

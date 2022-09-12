@@ -5,13 +5,15 @@ url: "https://yuying-jin.github.io/DIGIT400/gallery.html"
 ---
 
 <section class="gallery">
-    <h1 class="center">My Digital Projects</h1>
+    <h1>My Digital Projects</h1>
     <div class="cardContainer">
-    {% for item in site.data.project %}
-        <div class="card">
-            <img src="{{ item.img }}">
-            <a href="{{ item.github }}" target="_blank">Github</a>
-        </div>
-    {% endfor %}
+        {% for item in site.data.project %}
+            <div class="card">
+                <img src="{{ item.img }}" alt="preview">
+                <h2>{{ item.name }}</h2>
+                <p>{{ item.desc }}</p>
+                <a href="{{ item.github }}" target="_blank">GitHub</a>
+            </div>
+        {% endfor %}
     </div>
 </section>
