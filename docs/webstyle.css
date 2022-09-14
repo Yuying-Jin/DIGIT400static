@@ -30,7 +30,7 @@ header h1{
 header h2{
     position: absolute;
     top:58px;
-    right: 0;
+    right: 10px;
     width: 50px;
     color: var(--orange);
     font-family: "Comic Sans MS", Comic Sans, cursive;
@@ -42,24 +42,19 @@ header h2{
 .container h1{
     margin: 20px 0;
 }
-.section{
-    max-width:1000px;
-    justify-content: center;
-    display: flex;
-    flex-wrap: wrap;
-}
 /*navigation*/
+
 nav ul{
+    background-color: var(--orange);
     position: fixed;
-    right: 0;
     top: 0;
-    list-style-type: none;
-    padding: 5px 0px;
+    right: 0;
     overflow: hidden;
-    margin:0;
+    padding: 5px 0;
     z-index:99;
 }
 nav li {
+    list-style-type: none;
     float: left;
 }
 nav a {
@@ -73,6 +68,9 @@ nav a {
 nav a:hover {
     background-color: var(--orangeD);
     color: white;
+}
+#home, #about{
+    min-height: 70vh;
 }
 /* cv */
 .resume{
@@ -177,6 +175,8 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .gallery h1{
     margin: auto;

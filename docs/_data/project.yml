@@ -6,12 +6,15 @@
 - name: Weldon's Portfolio Site
   img: images/CS421.png
   github: https://github.com/Yuying-Jin/CS421proj
-  desc: This is a portfolio site that showcases projects made for various video games — such as skins, game modes, and levels.
+  desc: A portfolio site that showcases projects made for various video games — such as skins, game modes, and levels.
   work: Designing and developing gallery page in ejs and css.
 - name: Pie Chart Tutorial
+  img: images/pieChart.JPG
   github: https://github.com/Yuying-Jin/newTutorials/blob/main/yuyingPieChart/pieChart.md
+  desc: Introducing how to draw pie charts with stroke-dasharray attribute and how to label them with polar coordinates using SVG and XSLT.
   work: Introducing how to draw pie charts with stroke-dasharray attribute in SVG. Introducing how to label pie charts with polar coordinates in SVG and XSLT.
 - name: User-defined Function Tutorial
   github: https://github.com/Yuying-Jin/newTutorials/blob/main/yuyingFunction/xslFunction.md
+  desc: Introducing how to define functions in XSLT.
   work: Introducing how to define functions in XSLT.
 
