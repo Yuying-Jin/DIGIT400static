@@ -8,6 +8,7 @@
 *{
     margin:0;
     scroll-behavior: smooth;
+    animation-timing-function: ease;
 }
 body{
     background-color: var(--grey);
@@ -15,7 +16,7 @@ body{
 }
 header{
     position: relative;
-    top:0;
+    top:30px;
     left: 70px;
     width: 370px;
     height: 20vh;
@@ -37,31 +38,30 @@ header h2{
 }
 .container{
     margin: 0 auto;
-    padding: 0 10%;
+    padding: 50px 10%;
 }
 .container h1{
-    margin: 20px 0;
+    margin: 5px 0;
 }
 /*navigation*/
 
-nav ul{
+nav{
     background-color: var(--orange);
     position: fixed;
     top: 0;
     right: 0;
-    overflow: hidden;
-    padding: 5px 0;
+    display: block;
+    padding: 0;
     z-index:99;
-}
-nav li {
-    list-style-type: none;
-    float: left;
+    transition: top 0.3s;
 }
 nav a {
+    float: left;
+    display: block;
     color: var(--orangeDD);
     text-align: center;
     font-size: 20px;
-    padding: 50px 50px;
+    padding: 5px 50px;
     text-decoration: none;
     background-color: var(--orange);
 }

@@ -1,10 +1,8 @@
 <nav>
-    <ul>
     {% for item in site.data.nav %}
-        <li><a href="{{ item.link }}" {% if page.name == item.link %}
+        <a href="{{ item.link }}" {% if page.name == item.link %}
                style="background-color: var(--orangeD); color: white; font-weight: bold;" {% endif %}>
         {{ item.name }}
-    </a></li>
+    </a>
     {% endfor %}
-    </ul>
 </nav>
