@@ -2,8 +2,8 @@
     --orange: #FFA900;
     --orangeD: #FF8A00;
     --orangeDD: #673800;
-    --grey: #575757;
-    --greyD: #333333;
+    --grey: #222223;
+    --greyD: #111111;
 }   
 *{
     margin:0;
@@ -69,7 +69,20 @@ nav a:hover {
     background-color: var(--orangeD);
     color: white;
 }
-#home, #about{
+#home{
+    margin: 20vh 5%; 
+    font-size: 30px;
+}
+#home h1{
+    margin:0;
+}
+#home smaller{
+    font-size: 12px;
+    color:grey;
+    line-height:20%
+}
+
+#about{
     min-height: 70vh;
 }
 /* cv */
