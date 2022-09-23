@@ -3,7 +3,9 @@ layout: home
 title: Home
 url: "https://yuying-jin.github.io/DIGIT400/index.html"
 ---
+
 <section id="home">
+
     <p>Hi! I am </p>
     <h1 class="orange">Yuying Jin</h1>
     <hr/>
@@ -12,4 +14,15 @@ url: "https://yuying-jin.github.io/DIGIT400/index.html"
         <a href="https://github.com/Yuying-Jin" class="fa fa-github" target="_blank"></a>
         <a href="https://www.linkedin.com/in/yuying-jin-629ba41a9/?locale=en_US" class="fa fa-linkedin" target="_blank"></a>
     </div>
+    <div class="center"> <small>< Click Anywhere to Continue > </small> </div>
+    <div id="overlay" onclick="jumpLink()"/>
+
 </section>
+
+<script>
+function jumpLink(){
+    var url = "../about.html";
+    console.log('THIS FUNCTION IS FIRING');
+    location.replace(url);
+}
+</script>
