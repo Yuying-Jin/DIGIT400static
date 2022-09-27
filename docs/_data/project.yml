@@ -1,26 +1,24 @@
 # role for gallery
 # work for CV
-
-
 - name: Kew Gardens
   img: images/KewG.jpg
   github: https://github.com/erinmooney/Storybook
   desc: Using XML, Relax-NG, XSLT, and HTML to transcribe the short story <i>Kew Gardens</i> by the English author Virginia Woolf.
-  role: Transcribing and marking up the short story by the English author Virginia Woolf in xml. Editing the scheme file. Transforming XML to HTML in XSLT.
-  work: Transcribing and marking up the short story by the English author Virginia Woolf in xml. Editing the scheme file. Transforming XML to HTML in XSLT.
+  role: My role - Transcribing and marking up the short story by the English author Virginia Woolf in XML. Editing the scheme file. Transforming XML to HTML in XSLT.
+  work: Transcribing and marking up the short story by the English author Virginia Woolf in XML. Editing the scheme file. Transforming XML to HTML in XSLT.
 - name: Weldon's Portfolio Site
   img: images/CS421.png
   github: https://github.com/Yuying-Jin/CS421proj
   desc: A portfolio site that showcases projects made for various video games in EJS and CSS.
-  role: Designing and developing gallery page in EJS and CSS.
+  role: My role - Designing and developing gallery page in EJS and CSS.
   work: Designing and developing gallery page in EJS and CSS.
 - name: Pie Chart Tutorial
   img: images/pieChart.JPG
   github: https://github.com/Yuying-Jin/newTutorials/blob/main/yuyingPieChart/pieChart.md
   desc: Introducing how to draw pie charts with stroke-dasharray attribute and how to label them with polar coordinates using SVG and XSLT.
-  work: Introducing how to draw pie charts with stroke-dasharray attribute in SVG. Introducing how to label pie charts with polar coordinates in SVG and XSLT.
+  work: Drawing pie charts with stroke-dasharray attribute in SVG. Labeling pie charts with polar coordinates in SVG and XSLT.
 - name: User-defined Function Tutorial
   github: https://github.com/Yuying-Jin/newTutorials/blob/main/yuyingFunction/xslFunction.md
-  desc: Introducing how to define functions in XSLT.
-  work: Introducing how to define functions in XSLT.
+  desc: Defining functions in XSLT.
+  work: Defining how to define functions in XSLT.
 

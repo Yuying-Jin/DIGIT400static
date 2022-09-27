@@ -260,7 +260,7 @@ small{
 .card{
     background-color: var(--greyDD);
     width: 385px;
-    height: 400px;
+    height: 450px;
     overflow: hidden;
     position: relative;
     display: flex;
@@ -271,7 +271,7 @@ small{
 }
 .card img{
     width: 90%;
-    height: 40%;
+    height: 30%;
     object-fit: cover;
     margin: 5%;
     position: absolute;
@@ -282,7 +282,7 @@ small{
 .card h2{
     width: 90%;
     position: absolute;
-    top: 50%;
+    top: 37%;
     font-weight: normal;
     font-size: 24px;
     font-family: "Trebuchet MS", sans-serif; 
@@ -291,7 +291,7 @@ small{
 .card p{
     width: 85%;
     position: absolute;
-    top: 60%;
+    top: 47%;
     text-align: justify;
     font-family: Tahoma, Verdana, sans-serif;
 }
@@ -301,7 +301,7 @@ small{
     position: absolute;
     left: var(--left);
     width: 20%;
-    bottom: 8%;
+    bottom: 7%;
     padding: 1% var(--paddingL);
     background-color: var(--orange);
     text-decoration: none;
