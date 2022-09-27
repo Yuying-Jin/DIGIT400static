@@ -18,6 +18,7 @@
   desc: Introducing how to draw pie charts with stroke-dasharray attribute and how to label them with polar coordinates using SVG and XSLT.
   work: Drawing pie charts with stroke-dasharray attribute in SVG. Labeling pie charts with polar coordinates in SVG and XSLT.
 - name: User-defined Function Tutorial
+  img: images/func.jpg
   github: https://github.com/Yuying-Jin/newTutorials/blob/main/yuyingFunction/xslFunction.md
   desc: Defining functions in XSLT.
   work: Defining how to define functions in XSLT.
