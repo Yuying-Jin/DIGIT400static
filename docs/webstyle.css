@@ -12,7 +12,7 @@
     animation-timing-function: ease;
 }
 body{
-    background-image: radial-gradient(var(--grey) -100%, var(--greyD) 50%, var(--greyDD));
+    background-image: radial-gradient(var(--grey) -50%, var(--greyD) 70%, var(--greyDD));
     backgrund-color: var(--grey);
     color:white;
 }
