@@ -69,9 +69,9 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
      - E.g. `ANT_HOME="/mnt/c/ProgramData/chocolatey/lib/ant/tools/apache-ant-1.10.12"`
 
    - Add  a variable `JAVA_HOME` and set its value as the file path to JAVA you recording
-     - E.g. `/usr/lib/jvm/java-1.11.0-openjdk-amd64`
+     - E.g. `JAVA_HOME="/usr/lib/jvm/java-1.11.0-openjdk-amd64"`
 
-   - Press `ctrl + X` and press `Enter` to save changes
+   - Press `ctrl` + `X` and press `Enter` to save changes
 
    - Run `source/etc/environment` to reflect changes
 
