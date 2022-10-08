@@ -66,6 +66,6 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
 2. Navigate to staticSearch repository
 3. Run `ant` 
 4. Run `cd test`
-5. Run `python3 -m http.server 8000` and jump to `localhost:8000` on a web browser if python
+5. Run `python3 -m http.server 8000` and jump to `localhost:8000` on a web browser
 6. Click on the link `search.html` in the first paragraph and search something freely
 
