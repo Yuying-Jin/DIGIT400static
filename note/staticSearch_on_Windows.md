@@ -6,7 +6,7 @@ staticSearch generates a search page for the site without back-end servers (data
 
 The search page looks like below:![staticsearch](staticsearch.JPG)
 
-## How to use in on Windows?
+## How to use on Windows?
 
 ### Preparation
 
