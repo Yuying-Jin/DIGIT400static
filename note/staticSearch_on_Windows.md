@@ -16,7 +16,7 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
 3. Install WSL (Windows Subsystem for Linux)
     ​Since we cannot run staticSearch on Windows machines directly, we need to use WSL run Linux system on Windows machines.
 
-- Click on Start and search Windows PowerShell, right-click it and select **Run as administrator** option.
+- Click on Start and search **Windows PowerShell**, right-click it and select **Run as administrator** option.
 - If you would like a default distribution, you can: 
   - Run `wsl --install` 
 
@@ -29,7 +29,7 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
 
 ### Configuring Linux environment
 
-1. Open Ubuntu shell
+1. Open **Ubuntu shell**
 2. Set your username and password
 3. Update all available packages to install
 
@@ -57,13 +57,13 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
   - E.g. `ANT_HOME="/mnt/c/ProgramData/chocolatey/lib/ant/tools/apache-ant-1.10.12"`
 - Add  a variable `JAVA_HOME` and set its value as the file path to JAVA you recording
   - E.g. `/usr/lib/jvm/java-1.11.0-openjdk-amd64`
-- Press ctrl + X and press Enter to save changes
+- Press `ctrl + X` and press `Enter` to save changes
 - Run `source/etc/environment` to reflect changes
 
 ## Create a static search page
 
-1. Download the [package](https://github.com/projectEndings/staticSearch/releases/) or clone the [repository](https://github.com/projectEndings/staticSearch) for staticSearch
-2. Navigate to staticSearch repository
+1. Download the [package](https://github.com/projectEndings/staticSearch/releases/), or clone the [repository](https://github.com/projectEndings/staticSearch) for staticSearch in **Git Bash**
+2. In **Ubuntu Shell**, navigate to staticSearch repository
 3. Run `ant` 
 4. Run `cd test`
 5. Run `python3 -m http.server 8000` and jump to `localhost:8000` on a web browser
