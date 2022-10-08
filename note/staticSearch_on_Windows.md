@@ -4,7 +4,7 @@
 
 staticSearch generates a search page for the site without back-end servers (database, etc.). [*learn more*](https://endings.uvic.ca/staticSearch/docs/whatDoesItDo.html)
 
-The search page looks like below:![staticsearch](C:\Users\Jessie\Documents\Github\DIGIT400\note\staticsearch.JPG)
+The search page looks like below:![staticsearch](staticsearch.JPG)
 
 ## How to use in on Windows?
 
