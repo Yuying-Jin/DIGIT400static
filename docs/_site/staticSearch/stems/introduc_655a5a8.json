@@ -1,0 +1,13 @@
+
+  { "stem" : "introduc",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Introducing",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...in EJS and CSS. GitHub    Pie Chart Tutorial <mark>Introducing<\/mark> how to draw pie charts with stroke-dasharray..." } ] } ] }

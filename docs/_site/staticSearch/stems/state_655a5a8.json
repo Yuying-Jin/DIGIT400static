@@ -1,0 +1,39 @@
+
+  { "stem" : "state",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "State",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "Penn <mark>State<\/mark> Erie, The Behrend College" },
+          
+          { "form" : "State",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "At Penn <mark>State<\/mark> Behrend (2022 – present)" },
+          
+          { "form" : "State",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "At Penn <mark>State<\/mark> Behrend (2022)" },
+          
+          { "form" : "State",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "At Penn <mark>State<\/mark> Behrend (2022)" } ] },
+      
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "State",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "...senior student in Computer Science and Digit in Penn <mark>State<\/mark> Erie, Behrend. I like to challenge new...",
+            "fid" : "about" } ] } ] }

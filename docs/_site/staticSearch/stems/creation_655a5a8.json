@@ -1,0 +1,14 @@
+
+  { "stem" : "creation",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Creations",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "DIGIT 409 - Advanced Digital <mark>Creations<\/mark>",
+            "fid" : "about" } ] } ] }

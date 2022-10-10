@@ -1,0 +1,48 @@
+
+  { "stem" : "portfolio",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Portfolio",
+            "weight" : "1",
+            "pos" : 4,
+            "context" : "Digital <mark>Portfolio<\/mark>" },
+          
+          { "form" : "Portfolio",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...Transforming XML to HTML in XSLT. GitHub    Weldon's <mark>Portfolio<\/mark> Site A portfolio site that showcases projects made for..." },
+          
+          { "form" : "portfolio",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...HTML in XSLT. GitHub    Weldon's Portfolio Site A <mark>portfolio<\/mark> site that showcases projects made for various video games..." } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Portfolio",
+            "weight" : "1",
+            "pos" : 4,
+            "context" : "Digital <mark>Portfolio<\/mark>" },
+          
+          { "form" : "Portfolio",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "Weldon's <mark>Portfolio<\/mark> Site" } ] },
+      
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Portfolio",
+            "weight" : "1",
+            "pos" : 4,
+            "context" : "Digital <mark>Portfolio<\/mark>" } ] } ] }

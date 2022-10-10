@@ -1,0 +1,14 @@
+
+  { "stem" : "gd",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GD",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "<mark>GD<\/mark> 100 - Introduction to Graphic Design",
+            "fid" : "about" } ] } ] }

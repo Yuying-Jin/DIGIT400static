@@ -1,0 +1,59 @@
+
+  { "stem" : "comput",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Computer",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "I'm a senior student in <mark>Computer<\/mark> Science and Digit in Penn State Erie, Behrend...",
+            "fid" : "about" },
+          
+          { "form" : "Computer",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "<mark>Computer<\/mark> Science",
+            "fid" : "about" },
+          
+          { "form" : "Computer",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "CMPSC 312 - <mark>Computer<\/mark> Organization and Architecture",
+            "fid" : "about" },
+          
+          { "form" : "Computer",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "CMPSC 360 - Discrete Mathematics for <mark>Computer<\/mark> Science",
+            "fid" : "about" },
+          
+          { "form" : "Computing",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "CMPSC 421 - Net-centric <mark>Computing<\/mark>",
+            "fid" : "about" },
+          
+          { "form" : "Computer",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "CMPSC 443 - Introduction to <mark>Computer<\/mark> and Network Security",
+            "fid" : "about" } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Computer",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "<mark>Computer<\/mark> Science, Bachelor of Science" },
+          
+          { "form" : "Computer",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "<mark>Computer<\/mark> Skills" } ] } ] }

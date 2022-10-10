@@ -1,0 +1,38 @@
+
+  { "stem" : "chart",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Chart",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "Pie <mark>Chart<\/mark> Tutorial" },
+          
+          { "form" : "charts",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "Drawing pie <mark>charts<\/mark> with stroke-dasharray attribute in SVG. Labeling..." },
+          
+          { "form" : "charts",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...stroke-dasharray attribute in SVG. Labeling pie <mark>charts<\/mark> with polar coordinates in SVG and XSLT." } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Chart",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...gallery page in EJS and CSS. GitHub    Pie <mark>Chart<\/mark> Tutorial Introducing how to draw pie charts with stroke..." },
+          
+          { "form" : "charts",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...GitHub    Pie Chart Tutorial Introducing how to draw pie <mark>charts<\/mark> with stroke-dasharray attribute and how to label..." } ] } ] }

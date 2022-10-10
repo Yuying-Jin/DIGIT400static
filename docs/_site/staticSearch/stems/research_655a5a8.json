@@ -1,0 +1,18 @@
+
+  { "stem" : "research",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Research",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "Frankenstein Variorum Coding <mark>Research<\/mark> Assistant" },
+          
+          { "form" : "Research",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "Digital Mitford Coding <mark>Research<\/mark> Assistant" } ] } ] }

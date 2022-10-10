@@ -1,0 +1,18 @@
+
+  { "stem" : "role",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "role",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "...Gardens by the English author Virginia Woolf.My <mark>role<\/mark> - Transcribing and marking up the short story by..." },
+          
+          { "form" : "role",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...various video games in EJS and CSS.My <mark>role<\/mark> - Designing and developing gallery page in EJS and..." } ] } ] }

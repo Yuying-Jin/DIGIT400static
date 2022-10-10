@@ -1,0 +1,20 @@
+
+  { "stem" : "techniqu",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "techniques",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "...and solve problems. Exposure to new skills and <mark>techniques<\/mark> brings me great fun.",
+            "fid" : "about" },
+          
+          { "form" : "Techniques",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "CMPSC 121 - Introduction to Programming <mark>Techniques<\/mark>",
+            "fid" : "about" } ] } ] }

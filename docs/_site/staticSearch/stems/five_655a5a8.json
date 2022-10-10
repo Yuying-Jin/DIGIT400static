@@ -1,0 +1,13 @@
+
+  { "stem" : "five",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...Using machine-assisted collation and XSLT to compare <mark>five<\/mark> versions of the novel Frankenstein." } ] } ] }
