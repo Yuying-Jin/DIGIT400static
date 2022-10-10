@@ -1,0 +1,13 @@
+
+  { "stem" : "offic",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Office",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "<mark>Office<\/mark> 365" } ] } ] }

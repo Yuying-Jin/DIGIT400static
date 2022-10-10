@@ -1,0 +1,13 @@
+
+  { "stem" : "doubl",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Double",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "    <mark>Double<\/mark> major in:     " } ] } ] }

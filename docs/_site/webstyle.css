@@ -1,0 +1,359 @@
+:root{
+    --orange: #FFA900;
+    --orangeD: #FF8A00;
+    --orangeDD: #673800;
+    --grey: #575757;
+    --greyD: #222223;
+    --greyDD: #111111;
+}   
+*{
+    margin:0;
+    scroll-behavior: smooth;
+    animation-timing-function: ease;
+}
+body{
+    background-image: radial-gradient(var(--grey) -50%, var(--greyD) 70%, var(--greyDD));
+    backgrund-color: var(--grey);
+    color:white;
+}
+header{
+    position: relative;
+    top:30px;
+    left: 5vw;
+    width: 370px;
+    height: 20vh;
+}
+header h1{
+    position: absolute;
+    top:50px;
+    left:0;
+    font-size: 60px;
+    font-family: Comic Sans MS, Comic Sans, serif;
+}
+header h2{
+    position: absolute;
+    top:58px;
+    right: 10px;
+    width: 50px;
+    color: var(--orange);
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 50px 10%;
+}
+.container h1{
+    margin: 5px 0;
+}
+/*navigation*/
+
+nav{
+    background-color: var(--orange);
+    width: 100%;
+    top: 0;
+    position: fixed;
+    display: block;
+    padding: 0;
+    z-index:99;
+    transition: top 0.3s;
+}
+nav a {
+    float: left;
+    display: block;
+    color: var(--orangeDD);
+    text-align: center;
+    font-size: 20px;
+    padding: 5px 50px;
+    text-decoration: none;
+    background-color: var(--orange);
+}
+nav a:hover {
+    background-color: var(--orangeD);
+    color: white;
+}
+#home{
+    margin: 30vh 5%; 
+    font-size: 30px;
+}
+#home h1{
+    margin:0;
+}
+#home smaller{
+    font-size: 12px;
+    color:grey;
+}
+#home hr{
+    margin-top: 10px;
+    margin-bottom:-10px;
+    border-top: 0;
+}
+#home .links{
+    position: relative;
+    z-index:1;
+    display: flex;
+    margin-top: 10px;
+}
+#home a{
+    text-decoration: none;
+}
+small{
+    font-size:15px;
+}
+.fa {
+    padding: 5px;
+    font-size: 10px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+    border-radius: 50%;
+    transform: scale(0.8);
+    background: orange;
+    color: var(--greyD);
+}
+
+.fa:hover {
+    background: white;
+}
+#overlay{
+    position: fixed;
+    display: block;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0);
+    cursor: default;
+}
+
+
+#about{
+    min-height: 70vh;
+}
+/* cv */
+.resume{
+    width: 595pt;
+    height: 842pt;
+    margin: auto;
+    margin-bottom: 30px;
+    font-family: Calibri, sans-serif;
+    background-color: #eee;
+    color: black;
+    position: relative;
+    z-index: -1;
+}
+.cv{
+    background-color: #eee;
+    padding: 5pt 72pt;
+    font-size: 10pt;
+}
+.cv-head h1{
+    padding:72pt 0 0 72pt;
+    font-family: "Segoe UI Symbol", sans-serif;
+    font-weight: normal;
+    font-size: 26pt;
+}
+.cv-contact{
+    position: absolute;
+    top:72pt;
+    right: 72pt;
+}
+.cv-contact ul{
+    list-style: none;
+    margin:0;
+}
+.cv h1{
+    color: var(--orange);
+    font-family: "Segoe UI Symbol", sans-serif;
+    font-size: 14pt;
+    padding-top: 3pt;  
+    margin:0;
+}
+.cv h2{
+    font-weight: bold;
+    font-size: 12pt;
+    padding-top: 6pt;
+    padding-left: 10pt;
+    margin:0;
+}
+.cv h3{
+    color: #767070;
+    font-weight: normal;
+    font-size: 12pt;
+    padding-left: 20pt;
+    margin:0;
+}
+.cv ul{
+    padding-left: 10pt;  
+    margin:0;
+}
+.cv li{
+    padding-left: 10pt; 
+    padding-top: 2pt;
+    list-style: none;
+}
+.job p{
+    padding-left: 20pt;
+    margin:0;
+}
+.skill{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.skill ul{
+    width: 100%;
+    display: flex;
+    flex-wrap:wrap;
+}
+.skill li{
+    width: 30%;
+    overflow: hidden;
+    display: flex;
+}
+.button{
+    color: var(--orange);
+    font-size: 18px;
+    border: 2px solid var(--orange);
+    border-radius: 5px;
+    padding: 5px 25px;
+    text-decoration:none;
+    display: inline-block;
+    margin: 15px;
+}
+.button:hover{
+    color: white;
+    background-color: var(--orangeD);
+    border: 2px solid var(--orangeD);
+    cursor: pointer;
+}
+
+/* gallery */
+.gallery{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.gallery h1{
+    margin: auto;
+    text-align: center;
+    
+}
+.cardContainer{
+    margin-top:20px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.card{
+    background-color: var(--greyDD);
+    width: 385px;
+    height: 450px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    margin:10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+.card img{
+    width: 90%;
+    height: 32%;
+    object-fit: cover;
+    margin: 5%;
+    position: absolute;
+    top:0;
+    left:0;
+    border-radius: 5px;
+}
+.card h2{
+    width: 90%;
+    position: absolute;
+    top: 38%;
+    font-weight: normal;
+    font-size: 24px;
+    font-family: "Trebuchet MS", sans-serif; 
+
+}
+.card p{
+    width: 85%;
+    position: absolute;
+    top: 47%;
+    text-align: justify;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+.card a{
+    --paddingL: 2%;
+    --left: calc(40% - var(--paddingL));
+    position: absolute;
+    left: var(--left);
+    width: 20%;
+    bottom: 7%;
+    padding: 1% var(--paddingL);
+    background-color: var(--orange);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.card a:hover{
+    background-color:var(--orangeD);
+}
+
+
+
+/* decoration */
+.center{
+    width:50%;
+    margin: auto;
+    text-align: center;
+}
+.orange{
+    color: var(--orange);
+}
+footer{
+    background-color: var(--greyDD);
+    color: white;
+    left:0;
+    bottom:0;
+    width:100%;    
+}
+footer ul{
+    list-style: none;
+    padding: 40px;
+}
+footer a{
+    color: var(--orange);
+    text-decoration: none;
+}
+footer a:hover{
+    color: white;
+}
+#license{
+    padding-left: 40px;
+}
+#license span{
+    margin: auto;
+    font-size: 12px;
+    padding-left: 90px;
+}
+#goToTop{
+    position: fixed;
+    height: 60px;
+    width: 60px;
+    right: 80px;
+    bottom: 50px;
+    cursor: pointer;
+    fill: var(--orange);
+    opacity: 0.8;
+}
+#goToTop:hover{
+    opacity:1;
+}
+#goToTop:active{
+    fill: var(--orangeD);
+}

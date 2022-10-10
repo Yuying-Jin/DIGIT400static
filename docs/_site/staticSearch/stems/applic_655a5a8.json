@@ -1,0 +1,14 @@
+
+  { "stem" : "applic",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Applications",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...221 - Object Oriented Programming with Web-Based <mark>Applications<\/mark>",
+            "fid" : "about" } ] } ] }

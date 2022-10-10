@@ -1,0 +1,28 @@
+
+  { "stem" : "use",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Using",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "   My Digital Projects    Kew Gardens <mark>Using<\/mark> XML, Relax-NG, XSLT, and..." },
+          
+          { "form" : "using",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...attribute and how to label them with polar coordinates <mark>using<\/mark> SVG and XSLT. GitHub    User-defined Function..." } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Using",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...Inspecting, identifying, and solving coding problems. <mark>Using<\/mark> machine-assisted collation and XSLT to compare five..." } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "technolog",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Technology",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "Digital Media, Arts, and <mark>Technology<\/mark> (DIGIT), Bachelor of Art" } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "yxj",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yxj",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "<mark>yxj<\/mark>5181@psu.edu" } ] } ] }

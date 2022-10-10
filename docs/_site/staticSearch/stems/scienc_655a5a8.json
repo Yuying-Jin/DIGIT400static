@@ -1,0 +1,47 @@
+
+  { "stem" : "scienc",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Science",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "I'm a senior student in Computer <mark>Science<\/mark> and Digit in Penn State Erie, Behrend....",
+            "fid" : "about" },
+          
+          { "form" : "Science",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "Computer <mark>Science<\/mark>",
+            "fid" : "about" },
+          
+          { "form" : "Science",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "CMPSC 360 - Discrete Mathematics for Computer <mark>Science<\/mark>",
+            "fid" : "about" },
+          
+          { "form" : "Science",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "INART 50Z - The <mark>Science<\/mark> of Music",
+            "fid" : "about" } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Science",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Computer <mark>Science<\/mark>, Bachelor of Science" },
+          
+          { "form" : "Science",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "Computer Science, Bachelor of <mark>Science<\/mark>" } ] } ] }

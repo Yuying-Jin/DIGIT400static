@@ -1,0 +1,14 @@
+
+  { "stem" : "net-centr",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Net-centric",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "CMPSC 421 - <mark>Net-centric<\/mark> Computing",
+            "fid" : "about" } ] } ] }

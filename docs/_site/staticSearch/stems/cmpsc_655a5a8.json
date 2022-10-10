@@ -1,0 +1,68 @@
+
+  { "stem" : "cmpsc",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>CMPSC<\/mark> 121 - Introduction to Programming Techniques",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "<mark>CMPSC<\/mark> 122 - Intermediate Programming",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "<mark>CMPSC<\/mark> 221 - Object Oriented Programming with Web-Based...",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "<mark>CMPSC<\/mark> 312 - Computer Organization and Architecture",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "<mark>CMPSC<\/mark> 335 - Fundamentals of Communication Networks",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "<mark>CMPSC<\/mark> 360 - Discrete Mathematics for Computer Science",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "<mark>CMPSC<\/mark> 421 - Net-centric Computing",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "<mark>CMPSC<\/mark> 443 - Introduction to Computer and Network Security",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "<mark>CMPSC<\/mark> 461 - Programming Language Concepts",
+            "fid" : "about" },
+          
+          { "form" : "CMPSC",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "<mark>CMPSC<\/mark> 465 - Data Structures and Algorithms",
+            "fid" : "about" } ] } ] }

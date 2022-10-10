@@ -1,0 +1,33 @@
+
+  { "stem" : "develop",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Developer",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "DIGIT Student Program Web <mark>Developer<\/mark>" },
+          
+          { "form" : "developing",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "Designing and <mark>developing<\/mark> About page." },
+          
+          { "form" : "developing",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "Designing and <mark>developing<\/mark> gallery page in EJS and CSS." } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "developing",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...EJS and CSS.My role - Designing and <mark>developing<\/mark> gallery page in EJS and CSS. GitHub    Pie..." } ] } ] }

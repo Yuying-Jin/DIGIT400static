@@ -1,0 +1,23 @@
+
+  { "stem" : "relax",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Relax",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "<mark>Relax<\/mark> NG" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Relax",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "   My Digital Projects    Kew Gardens Using XML, <mark>Relax<\/mark>-NG, XSLT, and HTML to transcribe..." } ] } ] }

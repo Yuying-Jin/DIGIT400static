@@ -1,0 +1,18 @@
+
+  { "stem" : "frankenstein",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Frankenstein",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>Frankenstein<\/mark> Variorum Coding Research Assistant" },
+          
+          { "form" : "Frankenstein",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...and XSLT to compare five versions of the novel <mark>Frankenstein<\/mark>." } ] } ] }

@@ -1,0 +1,38 @@
+
+  { "stem" : "jin",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Jin",
+            "weight" : "1",
+            "pos" : 2,
+            "context" : "Yuying <mark>Jin<\/mark>" },
+          
+          { "form" : "Jin",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Yuying <mark>Jin<\/mark>" } ] },
+      
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Jin",
+            "weight" : "1",
+            "pos" : 2,
+            "context" : "Yuying <mark>Jin<\/mark>" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Jin",
+            "weight" : "1",
+            "pos" : 2,
+            "context" : "Yuying <mark>Jin<\/mark>" } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "edit",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Editing",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...by the English author Virginia Woolf in XML. <mark>Editing<\/mark> the scheme file. Transforming XML to HTML in..." } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Editing",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...by the English author Virginia Woolf in XML. <mark>Editing<\/mark> the scheme file. Transforming XML to HTML in..." } ] } ] }

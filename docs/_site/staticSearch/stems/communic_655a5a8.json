@@ -1,0 +1,14 @@
+
+  { "stem" : "communic",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Communication",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "CMPSC 335 - Fundamentals of <mark>Communication<\/mark> Networks",
+            "fid" : "about" } ] } ] }
