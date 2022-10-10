@@ -1,0 +1,14 @@
+
+  { "stem" : "scale",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Scale",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "DIGIT 210 - Large <mark>Scale<\/mark> Text Analysis",
+            "fid" : "about" } ] } ] }

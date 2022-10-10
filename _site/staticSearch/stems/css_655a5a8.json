@@ -1,0 +1,33 @@
+
+  { "stem" : "css",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "CSS",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "Designing and developing gallery page in EJS and <mark>CSS<\/mark>." },
+          
+          { "form" : "CSS",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "HTML &amp; <mark>CSS<\/mark>" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "CSS",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...projects made for various video games in EJS and <mark>CSS<\/mark>.My role - Designing and developing gallery page..." },
+          
+          { "form" : "CSS",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...- Designing and developing gallery page in EJS and <mark>CSS<\/mark>. GitHub    Pie Chart Tutorial Introducing how to draw..." } ] } ] }

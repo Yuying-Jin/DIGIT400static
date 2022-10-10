@@ -1,0 +1,28 @@
+
+  { "stem" : "kew",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "   My Digital Projects    <mark>Kew<\/mark> Gardens Using XML, Relax-NG, XSLT..." },
+          
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...XSLT, and HTML to transcribe the short story <mark>Kew<\/mark> Gardens by the English author Virginia Woolf.My..." } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kew",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "<mark>Kew<\/mark> Gardens" } ] } ] }

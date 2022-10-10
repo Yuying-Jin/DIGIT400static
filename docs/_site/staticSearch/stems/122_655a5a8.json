@@ -1,0 +1,14 @@
+
+  { "stem" : "122",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "122",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "CMPSC <mark>122<\/mark> - Intermediate Programming",
+            "fid" : "about" } ] } ] }

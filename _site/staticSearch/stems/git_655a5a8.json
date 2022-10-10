@@ -1,0 +1,13 @@
+
+  { "stem" : "git",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Git",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "<mark>Git<\/mark> &amp; GitHub" } ] } ] }

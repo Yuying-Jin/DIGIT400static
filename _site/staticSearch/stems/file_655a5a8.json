@@ -1,0 +1,23 @@
+
+  { "stem" : "file",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "file",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT." } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "file",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT. GitHub..." } ] } ] }

@@ -1,0 +1,54 @@
+
+  { "stem" : "licens",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "licensed",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : " This work is <mark>licensed<\/mark> under a Creative Commons Attribution-NonCommercial 4.0 International...",
+            "fid" : "license" },
+          
+          { "form" : "License",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...under a Creative Commons Attribution-NonCommercial 4.0 International <mark>License<\/mark> ",
+            "fid" : "license" } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "licensed",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : " This work is <mark>licensed<\/mark> under a Creative Commons Attribution-NonCommercial 4.0 International...",
+            "fid" : "license" },
+          
+          { "form" : "License",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...under a Creative Commons Attribution-NonCommercial 4.0 International <mark>License<\/mark> ",
+            "fid" : "license" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "licensed",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : " This work is <mark>licensed<\/mark> under a Creative Commons Attribution-NonCommercial 4.0 International...",
+            "fid" : "license" },
+          
+          { "form" : "License",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...under a Creative Commons Attribution-NonCommercial 4.0 International <mark>License<\/mark> ",
+            "fid" : "license" } ] } ] }

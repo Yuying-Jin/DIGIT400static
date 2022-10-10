@@ -1,0 +1,23 @@
+
+  { "stem" : "weldon",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Weldon's",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "<mark>Weldon's<\/mark> Portfolio Site" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Weldon's",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : ".... Transforming XML to HTML in XSLT. GitHub    <mark>Weldon's<\/mark> Portfolio Site A portfolio site that showcases projects made..." } ] } ] }

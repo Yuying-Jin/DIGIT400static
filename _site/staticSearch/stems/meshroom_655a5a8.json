@@ -1,0 +1,13 @@
+
+  { "stem" : "meshroom",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Meshroom",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "<mark>Meshroom<\/mark>" } ] } ] }

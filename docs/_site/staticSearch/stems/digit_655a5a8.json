@@ -1,0 +1,135 @@
+
+  { "stem" : "digit",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 13,
+        "contexts" : 
+        [ 
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 3,
+            "context" : "<mark>Digital<\/mark> Portfolio" },
+          
+          { "form" : "Digit",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "I'm a senior student in Computer Science and <mark>Digit<\/mark> in Penn State Erie, Behrend. I like...",
+            "fid" : "about" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "<mark>Digital<\/mark> painting",
+            "fid" : "about" },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "<mark>DIGIT<\/mark>",
+            "fid" : "about" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "ART 168 - The <mark>Digital<\/mark> Medium",
+            "fid" : "about" },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "<mark>DIGIT<\/mark> 100 - Introduction to Digital Humanities",
+            "fid" : "about" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "DIGIT 100 - Introduction to <mark>Digital<\/mark> Humanities",
+            "fid" : "about" },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "<mark>DIGIT<\/mark> 110 - Text Encoding Fundamentals",
+            "fid" : "about" },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "<mark>DIGIT<\/mark> 210 - Large Scale Text Analysis",
+            "fid" : "about" },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "<mark>DIGIT<\/mark> 400 - Digital Project Design",
+            "fid" : "about" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "DIGIT 400 - <mark>Digital<\/mark> Project Design",
+            "fid" : "about" },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "<mark>DIGIT<\/mark> 409 - Advanced Digital Creations",
+            "fid" : "about" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "DIGIT 409 - Advanced <mark>Digital<\/mark> Creations",
+            "fid" : "about" } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 3,
+            "context" : "<mark>Digital<\/mark> Portfolio" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "<mark>Digital<\/mark> Media, Arts, and Technology (DIGIT),..." },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "Digital Media, Arts, and Technology (<mark>DIGIT<\/mark>), Bachelor of Art" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "<mark>Digital<\/mark> Mitford Coding Research Assistant" },
+          
+          { "form" : "DIGIT",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "<mark>DIGIT<\/mark> Student Program Web Developer" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "<mark>Digital<\/mark> Projects" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 3,
+            "context" : "<mark>Digital<\/mark> Portfolio" },
+          
+          { "form" : "Digital",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "   My <mark>Digital<\/mark> Projects    Kew Gardens Using XML, Relax-NG..." } ] } ] }

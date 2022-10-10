@@ -1,0 +1,48 @@
+
+  { "stem" : "xml",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...short story by the English author Virginia Woolf in <mark>XML<\/mark>. Editing the scheme file. Transforming XML to..." },
+          
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...in XML. Editing the scheme file. Transforming <mark>XML<\/mark> to HTML in XSLT." },
+          
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "oXygen <mark>XML<\/mark>" },
+          
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "<mark>XML<\/mark>" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "   My Digital Projects    Kew Gardens Using <mark>XML<\/mark>, Relax-NG, XSLT, and HTML..." },
+          
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...short story by the English author Virginia Woolf in <mark>XML<\/mark>. Editing the scheme file. Transforming XML to..." },
+          
+          { "form" : "XML",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...in XML. Editing the scheme file. Transforming <mark>XML<\/mark> to HTML in XSLT. GitHub    Weldon's Portfolio Site..." } ] } ] }

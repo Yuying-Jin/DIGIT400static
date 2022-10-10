@@ -1,0 +1,13 @@
+
+  { "stem" : "expect",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Expected",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "<mark>Expected<\/mark> Graduation: 2024" } ] } ] }

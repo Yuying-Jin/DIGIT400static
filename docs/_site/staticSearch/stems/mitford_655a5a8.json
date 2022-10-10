@@ -1,0 +1,13 @@
+
+  { "stem" : "mitford",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mitford",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "Digital <mark>Mitford<\/mark> Coding Research Assistant" } ] } ] }

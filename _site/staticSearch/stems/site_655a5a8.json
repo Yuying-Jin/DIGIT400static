@@ -1,0 +1,28 @@
+
+  { "stem" : "site",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Site",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...XML to HTML in XSLT. GitHub    Weldon's Portfolio <mark>Site<\/mark> A portfolio site that showcases projects made for various..." },
+          
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...in XSLT. GitHub    Weldon's Portfolio Site A portfolio <mark>site<\/mark> that showcases projects made for various video games in..." } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Site",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "Weldon's Portfolio <mark>Site<\/mark>" } ] } ] }

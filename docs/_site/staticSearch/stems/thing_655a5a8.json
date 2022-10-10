@@ -1,0 +1,14 @@
+
+  { "stem" : "thing",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...Erie, Behrend. I like to challenge new <mark>things<\/mark> and solve problems. Exposure to new skills and...",
+            "fid" : "about" } ] } ] }

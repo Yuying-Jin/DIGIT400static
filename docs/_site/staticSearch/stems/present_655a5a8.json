@@ -1,0 +1,13 @@
+
+  { "stem" : "present",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "present",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "At Penn State Behrend (2022 – <mark>present<\/mark>)" } ] } ] }

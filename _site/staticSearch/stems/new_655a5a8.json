@@ -1,0 +1,20 @@
+
+  { "stem" : "new",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "...State Erie, Behrend. I like to challenge <mark>new<\/mark> things and solve problems. Exposure to new skills...",
+            "fid" : "about" },
+          
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...challenge new things and solve problems. Exposure to <mark>new<\/mark> skills and techniques brings me great fun.",
+            "fid" : "about" } ] } ] }

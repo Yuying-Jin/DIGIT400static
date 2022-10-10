@@ -1,0 +1,13 @@
+
+  { "stem" : "workshop",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "workshop",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "Helping <mark>workshop<\/mark> participants." } ] } ] }

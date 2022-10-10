@@ -1,0 +1,13 @@
+
+  { "stem" : "made",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "made",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...Weldon's Portfolio Site A portfolio site that showcases projects <mark>made<\/mark> for various video games in EJS and CSS...." } ] } ] }

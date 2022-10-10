@@ -1,0 +1,20 @@
+
+  { "stem" : "text",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Text",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "DIGIT 110 - <mark>Text<\/mark> Encoding Fundamentals",
+            "fid" : "about" },
+          
+          { "form" : "Text",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "DIGIT 210 - Large Scale <mark>Text<\/mark> Analysis",
+            "fid" : "about" } ] } ] }

@@ -1,0 +1,18 @@
+
+  { "stem" : "bachelor",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Bachelor",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Computer Science, <mark>Bachelor<\/mark> of Science" },
+          
+          { "form" : "Bachelor",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...Media, Arts, and Technology (DIGIT), <mark>Bachelor<\/mark> of Art" } ] } ] }

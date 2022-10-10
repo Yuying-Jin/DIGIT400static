@@ -1,0 +1,14 @@
+
+  { "stem" : "lesson",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lessons",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "<mark>Lessons<\/mark> Learned",
+            "fid" : "about" } ] } ] }

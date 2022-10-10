@@ -1,0 +1,30 @@
+
+  { "stem" : "game",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "GAME",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "<mark>GAME<\/mark> 220 - Introduction to Game Design",
+            "fid" : "about" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "GAME 220 - Introduction to <mark>Game<\/mark> Design",
+            "fid" : "about" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "games",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...portfolio site that showcases projects made for various video <mark>games<\/mark> in EJS and CSS.My role - Designing..." } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "challeng",
+    "instances" : 
+    [ 
+      { "docId" : "about",
+        "docUri" : "about.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "challenge",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "...Penn State Erie, Behrend. I like to <mark>challenge<\/mark> new things and solve problems. Exposure to new...",
+            "fid" : "about" } ] } ] }

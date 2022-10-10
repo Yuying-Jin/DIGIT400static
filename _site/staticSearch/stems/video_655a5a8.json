@@ -1,0 +1,13 @@
+
+  { "stem" : "video",
+    "instances" : 
+    [ 
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "video",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...A portfolio site that showcases projects made for various <mark>video<\/mark> games in EJS and CSS.My role -..." } ] } ] }

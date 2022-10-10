@@ -1,0 +1,33 @@
+
+  { "stem" : "tutori",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tutorial",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "Pie Chart <mark>Tutorial<\/mark>" },
+          
+          { "form" : "Tutorial",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "User-defined Function <mark>Tutorial<\/mark>" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tutorial",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...page in EJS and CSS. GitHub    Pie Chart <mark>Tutorial<\/mark> Introducing how to draw pie charts with stroke-..." },
+          
+          { "form" : "Tutorial",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...SVG and XSLT. GitHub    User-defined Function <mark>Tutorial<\/mark> Defining functions in XSLT. GitHub    " } ] } ] }

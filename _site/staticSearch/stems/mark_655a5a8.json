@@ -1,0 +1,23 @@
+
+  { "stem" : "mark",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marking",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "Transcribing and <mark>marking<\/mark> up the short story by the English author Virginia..." } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marking",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...author Virginia Woolf.My role - Transcribing and <mark>marking<\/mark> up the short story by the English author Virginia..." } ] } ] }

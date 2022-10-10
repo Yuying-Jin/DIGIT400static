@@ -1,0 +1,13 @@
+
+  { "stem" : "effect",
+    "instances" : 
+    [ 
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Effects",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "Adobe After <mark>Effects<\/mark>" } ] } ] }
