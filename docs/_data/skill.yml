@@ -3,7 +3,7 @@ item:
     subitem:
       - name: oXygen XML
       - name: WebStorm
-      - name: Git & GitHub
+      - name: Git &amp; GitHub
       - name: Adobe After Effects
       - name: Adobe Photoshop
       - name: Office 365
@@ -13,7 +13,7 @@ item:
     subitem:
       - name: C++
       - name: JavaScript
-      - name: HTML & CSS
+      - name: HTML &amp; CSS
       - name: EJS
       - name: Jekyll
       - name: SVG

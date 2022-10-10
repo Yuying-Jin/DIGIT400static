@@ -38,14 +38,6 @@ header h2{
     color: var(--orange);
     font-family: "Comic Sans MS", Comic Sans, cursive;
 }
-@media screen and (min-width: 1600px) {
-  header h1{
-    font-size:12vw;
-  }
-  header h2{
-    font-size: 5vw;
-  }
-}
 
 .container{
     margin: 0 auto;
