@@ -2,7 +2,7 @@
 
 ## What is staticSearch?
 
-staticSearch generates a search page for the site without back-end servers (database, etc.). [*learn more*](https://endings.uvic.ca/staticSearch/docs/whatDoesItDo.html)
+staticSearch can generate a search page for a site without back-end servers (database, etc.). [*learn more*](https://endings.uvic.ca/staticSearch/docs/whatDoesItDo.html)
 
 The search page looks like below:![staticsearch](staticsearch.JPG)
 
@@ -20,18 +20,12 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
     Since we cannot run staticSearch on Windows machines directly, we need to use WSL run Linux system on Windows machines.
 
     - Click on Start and search **Windows PowerShell**, right-click it and select **Run as administrator** option.
-
       - If you would like a default distribution, you can: 
         - Run `wsl --install` 
-
-
       - If you want a specific distribution, you can:
-
         - Run `wsl --list --online` to get a list of WSL distributions
         - Run `wsl --install Ubuntu`
           - You can replace `Ubuntu` to any other distribution in the list.
-
-
     - Restart your computer
 
 
@@ -51,7 +45,7 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
 
    - On my computer, it's `C:\ProgramData\chocolatey\lib\ant\tools\apache-ant-1.10.12`
 
-   - Replace all `\` to `/` `C:\` and replace `C:` to `/mnt/c` 
+   - Replace all `\` to `/` and replace `C:` to `/mnt/c` 
 
 
    - Now, it should be like `/mnt/c/ProgramData/chocolatey/lib/ant/tools/apache-ant-1.10.12`
@@ -65,7 +59,7 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
 
    - Run `sudo nano /etc/environment`
 
-   - Add a variable `ANT_HOME` and its value as the file path to ANT
+   - Add a variable `ANT_HOME` and set its value as the file path to ANT
      - E.g. `ANT_HOME="/mnt/c/ProgramData/chocolatey/lib/ant/tools/apache-ant-1.10.12"`
 
    - Add  a variable `JAVA_HOME` and set its value as the file path to JAVA you recording
@@ -78,7 +72,7 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
 
 ## Create a static search page
 
-1. Download the [package](https://github.com/projectEndings/staticSearch/releases/), or clone the [repository](https://github.com/projectEndings/staticSearch) for staticSearch in **Git Bash**
+1. Download the [package](https://github.com/projectEndings/staticSearch/releases/), or clone the [repository](https://github.com/projectEndings/staticSearch) of staticSearch in **Git Bash**
 2. In **Ubuntu Shell**, navigate to staticSearch repository
 3. Run `ant` 
 4. Run `cd test`
