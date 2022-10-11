@@ -24,6 +24,7 @@ jobs:
   # Single deploy job since we're just deploying
   deploy:
     environment:
+      #name: github-pages
       name: gh-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
@@ -36,6 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
+          #path: '.'
           path: 'docs/_site'
       - name: Deploy to GitHub Pages
         id: deployment
