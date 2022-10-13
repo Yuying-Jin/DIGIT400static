@@ -9,6 +9,6 @@
         [ 
           { "form" : "Encoding",
             "weight" : "1",
-            "pos" : 110,
+            "pos" : 106,
             "context" : "DIGIT 110 - Text <mark>Encoding<\/mark> Fundamentals",
             "fid" : "about" } ] } ] }

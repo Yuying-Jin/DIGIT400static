@@ -9,12 +9,12 @@
         [ 
           { "form" : "Data",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 25,
             "context" : "<mark>Data<\/mark> Visualization",
             "fid" : "about" },
           
           { "form" : "Data",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 86,
             "context" : "CMPSC 465 - <mark>Data<\/mark> Structures and Algorithms",
             "fid" : "about" } ] } ] }

@@ -9,6 +9,6 @@
         [ 
           { "form" : "Discrete",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 63,
             "context" : "CMPSC 360 - <mark>Discrete<\/mark> Mathematics for Computer Science",
             "fid" : "about" } ] } ] }

@@ -4,27 +4,22 @@
     [ 
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 4,
+        "score" : 3,
         "contexts" : 
         [ 
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 14,
-            "context" : "<mark>Penn<\/mark> State Erie, The Behrend College" },
-          
-          { "form" : "Penn",
-            "weight" : "1",
-            "pos" : 42,
+            "pos" : 26,
             "context" : "At <mark>Penn<\/mark> State Behrend (2022 – present)" },
           
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 47,
             "context" : "At <mark>Penn<\/mark> State Behrend (2022)" },
           
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 54,
             "context" : "At <mark>Penn<\/mark> State Behrend (2022)" } ] },
       
       { "docId" : "about",

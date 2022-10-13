@@ -241,8 +241,8 @@ div#ssSearching{
 }
 
 body.ssSearching:not(.ssLoading) div#ssSearching, body.ssLoading:not(.ssSearching) div#ssSplashMessage, noscript{
-    background-color: #000000;
-    color: #ffffff;
+    /*background-color: #000000;
+    color: #ffffff;*/
     font-size: 1.5rem;
     padding: 1rem;
     border-radius: 0.25rem 0.25rem;
@@ -252,3 +252,4 @@ body.ssSearching:not(.ssLoading) div#ssSearching, body.ssLoading:not(.ssSearchin
     transform: translate(-50%, -50%);
     display: block;
 }
+

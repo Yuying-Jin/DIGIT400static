@@ -9,6 +9,6 @@
         [ 
           { "form" : "painting",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 30,
             "context" : "Digital <mark>painting<\/mark>",
             "fid" : "about" } ] } ] }

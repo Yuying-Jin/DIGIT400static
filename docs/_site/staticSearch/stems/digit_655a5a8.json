@@ -15,99 +15,84 @@
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 29,
             "context" : "<mark>Digital<\/mark> painting",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 89,
             "context" : "<mark>DIGIT<\/mark>",
             "fid" : "about" },
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 96,
             "context" : "ART 168 - The <mark>Digital<\/mark> Medium",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 98,
             "context" : "<mark>DIGIT<\/mark> 100 - Introduction to Digital Humanities",
             "fid" : "about" },
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 101,
             "context" : "DIGIT 100 - Introduction to <mark>Digital<\/mark> Humanities",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 103,
             "context" : "<mark>DIGIT<\/mark> 110 - Text Encoding Fundamentals",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 112,
+            "pos" : 108,
             "context" : "<mark>DIGIT<\/mark> 210 - Large Scale Text Analysis",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 114,
             "context" : "<mark>DIGIT<\/mark> 400 - Digital Project Design",
             "fid" : "about" },
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 116,
             "context" : "DIGIT 400 - <mark>Digital<\/mark> Project Design",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 119,
             "context" : "<mark>DIGIT<\/mark> 409 - Advanced Digital Creations",
             "fid" : "about" },
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 122,
             "context" : "DIGIT 409 - Advanced <mark>Digital<\/mark> Creations",
             "fid" : "about" } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 5,
+        "score" : 2,
         "contexts" : 
         [ 
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 16,
             "context" : "<mark>Digital<\/mark> Media, Arts, and Technology (DIGIT), Bachelor of..." },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 29,
-            "context" : "Digital Media, Arts, and Technology (<mark>DIGIT<\/mark>), Bachelor of Art" },
-          
-          { "form" : "Digital",
-            "weight" : "1",
-            "pos" : 63,
-            "context" : "<mark>Digital<\/mark> Mitford Coding Research Assistant" },
-          
-          { "form" : "DIGIT",
-            "weight" : "1",
-            "pos" : 75,
-            "context" : "<mark>DIGIT<\/mark> Student Program Web Developer" },
-          
-          { "form" : "Digital",
-            "weight" : "1",
-            "pos" : 87,
-            "context" : "<mark>Digital<\/mark> Projects" } ] },
+            "pos" : 20,
+            "context" : "Digital Media, Arts, and Technology (<mark>DIGIT<\/mark>), Bachelor of Art" } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -116,5 +101,5 @@
         [ 
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 2,
-            "context" : "   My <mark>Digital<\/mark> Projects    Kew Gardens Using XML, Relax-NG, XSLT..." } ] } ] }
+            "pos" : 1,
+            "context" : "  My <mark>Digital<\/mark> Projects    Kew Gardens Using XML, Relax-NG, XSLT..." } ] } ] }

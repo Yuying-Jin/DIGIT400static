@@ -4,22 +4,17 @@
     [ 
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 3,
+        "score" : 2,
         "contexts" : 
         [ 
-          { "form" : "defined",
-            "weight" : "1",
-            "pos" : 136,
-            "context" : "User-<mark>defined<\/mark> Function Tutorial" },
-          
           { "form" : "Defining",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 98,
             "context" : "<mark>Defining<\/mark> how to define functions in XSLT." },
           
           { "form" : "define",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 99,
             "context" : "Defining how to <mark>define<\/mark> functions in XSLT." } ] },
       
       { "docId" : "gallery",
@@ -29,10 +24,10 @@
         [ 
           { "form" : "defined",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 80,
             "context" : "...with polar coordinates using SVG and XSLT. GitHub    User-<mark>defined<\/mark> Function Tutorial Defining functions in XSLT. GitHub    " },
           
           { "form" : "Defining",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 83,
             "context" : "...using SVG and XSLT. GitHub    User-defined Function Tutorial <mark>Defining<\/mark> functions in XSLT. GitHub    " } ] } ] }

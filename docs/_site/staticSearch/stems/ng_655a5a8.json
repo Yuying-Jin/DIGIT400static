@@ -9,7 +9,7 @@
         [ 
           { "form" : "NG",
             "weight" : "1",
-            "pos" : 169,
+            "pos" : 123,
             "context" : "Relax <mark>NG<\/mark>" } ] },
       
       { "docId" : "gallery",
@@ -19,5 +19,5 @@
         [ 
           { "form" : "NG",
             "weight" : "1",
-            "pos" : 10,
-            "context" : "   My Digital Projects    Kew Gardens Using XML, Relax-<mark>NG<\/mark>, XSLT, and HTML to transcribe the short story Kew..." } ] } ] }
+            "pos" : 9,
+            "context" : "  My Digital Projects    Kew Gardens Using XML, Relax-<mark>NG<\/mark>, XSLT, and HTML to transcribe the short story Kew..." } ] } ] }

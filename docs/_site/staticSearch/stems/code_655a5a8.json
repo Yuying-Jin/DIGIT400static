@@ -4,25 +4,10 @@
     [ 
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 4,
+        "score" : 1,
         "contexts" : 
         [ 
-          { "form" : "Coding",
-            "weight" : "1",
-            "pos" : 39,
-            "context" : "Frankenstein Variorum <mark>Coding<\/mark> Research Assistant" },
-          
           { "form" : "coding",
             "weight" : "1",
-            "pos" : 50,
-            "context" : "Inspecting, identifying, and solving <mark>coding<\/mark> problems. Using machine-assisted collation and XSLT to compare..." },
-          
-          { "form" : "Coding",
-            "weight" : "1",
-            "pos" : 65,
-            "context" : "Digital Mitford <mark>Coding<\/mark> Research Assistant" },
-          
-          { "form" : "Code",
-            "weight" : "1",
-            "pos" : 159,
-            "context" : "<mark>Code<\/mark> Language" } ] } ] }
+            "pos" : 34,
+            "context" : "Inspecting, identifying, and solving <mark>coding<\/mark> problems. Using machine-assisted collation and XSLT to compare..." } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "user-defin",
     "instances" : 
     [ 
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "User-defined",
-            "weight" : "1",
-            "pos" : 134,
-            "context" : "<mark>User-defined<\/mark> Function Tutorial" } ] },
-      
       { "docId" : "gallery",
         "docUri" : "gallery.html",
         "score" : 1,
@@ -19,5 +9,5 @@
         [ 
           { "form" : "User-defined",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 78,
             "context" : "...label them with polar coordinates using SVG and XSLT. GitHub    <mark>User-defined<\/mark> Function Tutorial Defining functions in XSLT. GitHub    " } ] } ] }

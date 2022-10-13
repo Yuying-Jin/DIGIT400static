@@ -9,6 +9,6 @@
         [ 
           { "form" : "Humanities",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 102,
             "context" : "DIGIT 100 - Introduction to Digital <mark>Humanities<\/mark>",
             "fid" : "about" } ] } ] }

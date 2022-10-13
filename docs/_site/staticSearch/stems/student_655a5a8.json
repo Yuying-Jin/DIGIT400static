@@ -11,14 +11,4 @@
             "weight" : "1",
             "pos" : 3,
             "context" : "I'm a senior <mark>student<\/mark> in Computer Science and Digit in Penn State Erie, Behrend...",
-            "fid" : "about" } ] },
-      
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Student",
-            "weight" : "1",
-            "pos" : 76,
-            "context" : "DIGIT <mark>Student<\/mark> Program Web Developer" } ] } ] }
+            "fid" : "about" } ] } ] }

@@ -4,27 +4,22 @@
     [ 
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 4,
+        "score" : 3,
         "contexts" : 
         [ 
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 17,
-            "context" : "Penn State Erie, The <mark>Behrend<\/mark> College" },
-          
-          { "form" : "Behrend",
-            "weight" : "1",
-            "pos" : 44,
+            "pos" : 28,
             "context" : "At Penn State <mark>Behrend<\/mark> (2022 – present)" },
           
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 49,
             "context" : "At Penn State <mark>Behrend<\/mark> (2022)" },
           
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 56,
             "context" : "At Penn State <mark>Behrend<\/mark> (2022)" } ] },
       
       { "docId" : "about",

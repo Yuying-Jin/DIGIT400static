@@ -9,22 +9,22 @@
         [ 
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 38,
             "context" : "...the scheme file. Transforming XML to HTML in XSLT. <mark>GitHub<\/mark>    Weldon's Portfolio Site A portfolio site that showcases projects made for..." },
           
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 59,
             "context" : "...- Designing and developing gallery page in EJS and CSS. <mark>GitHub<\/mark>    Pie Chart Tutorial Introducing how to draw pie charts with stroke..." },
           
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 77,
             "context" : "...to label them with polar coordinates using SVG and XSLT. <mark>GitHub<\/mark>    User-defined Function Tutorial Defining functions in XSLT. GitHub..." },
           
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 86,
             "context" : "...GitHub    User-defined Function Tutorial Defining functions in XSLT. <mark>GitHub<\/mark>    " } ] },
       
       { "docId" : "cv",
@@ -34,5 +34,5 @@
         [ 
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 106,
             "context" : "Git &amp; <mark>GitHub<\/mark>" } ] } ] }

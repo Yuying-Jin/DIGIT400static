@@ -15,6 +15,6 @@
           
           { "form" : "Techniques",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 37,
             "context" : "CMPSC 121 - Introduction to Programming <mark>Techniques<\/mark>",
             "fid" : "about" } ] } ] }

@@ -9,22 +9,22 @@
         [ 
           { "form" : "XML",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 69,
             "context" : "...up the short story by the English author Virginia Woolf in <mark>XML<\/mark>. Editing the scheme file. Transforming XML to HTML in..." },
           
           { "form" : "XML",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 74,
             "context" : "...Virginia Woolf in XML. Editing the scheme file. Transforming <mark>XML<\/mark> to HTML in XSLT." },
           
           { "form" : "XML",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 103,
             "context" : "oXygen <mark>XML<\/mark>" },
           
           { "form" : "XML",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 121,
             "context" : "<mark>XML<\/mark>" } ] },
       
       { "docId" : "gallery",
@@ -34,15 +34,15 @@
         [ 
           { "form" : "XML",
             "weight" : "1",
-            "pos" : 7,
-            "context" : "   My Digital Projects    Kew Gardens Using <mark>XML<\/mark>, Relax-NG, XSLT, and HTML to transcribe..." },
+            "pos" : 6,
+            "context" : "  My Digital Projects    Kew Gardens Using <mark>XML<\/mark>, Relax-NG, XSLT, and HTML to transcribe..." },
           
           { "form" : "XML",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 30,
             "context" : "...up the short story by the English author Virginia Woolf in <mark>XML<\/mark>. Editing the scheme file. Transforming XML to HTML in..." },
           
           { "form" : "XML",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 35,
             "context" : "...Virginia Woolf in XML. Editing the scheme file. Transforming <mark>XML<\/mark> to HTML in XSLT. GitHub    Weldon's Portfolio Site A portfolio..." } ] } ] }

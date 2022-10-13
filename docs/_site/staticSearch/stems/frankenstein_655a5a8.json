@@ -4,15 +4,10 @@
     [ 
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Frankenstein",
             "weight" : "1",
-            "pos" : 37,
-            "context" : "<mark>Frankenstein<\/mark> Variorum Coding Research Assistant" },
-          
-          { "form" : "Frankenstein",
-            "weight" : "1",
-            "pos" : 62,
+            "pos" : 46,
             "context" : "...assisted collation and XSLT to compare five versions of the novel <mark>Frankenstein<\/mark>." } ] } ] }

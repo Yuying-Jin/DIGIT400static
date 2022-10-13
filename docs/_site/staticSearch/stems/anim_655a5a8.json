@@ -9,12 +9,12 @@
         [ 
           { "form" : "animation",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 28,
             "context" : "Keyframe <mark>animation<\/mark>",
             "fid" : "about" },
           
           { "form" : "Animation",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 135,
             "context" : "DART 204 - <mark>Animation<\/mark> Fundamentals",
             "fid" : "about" } ] } ] }

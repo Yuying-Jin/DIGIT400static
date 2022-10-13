@@ -9,19 +9,19 @@
         [ 
           { "form" : "Design",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 118,
             "context" : "DIGIT 400 - Digital Project <mark>Design<\/mark>",
             "fid" : "about" },
           
           { "form" : "Design",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 128,
             "context" : "GD 100 - Introduction to Graphic <mark>Design<\/mark>",
             "fid" : "about" },
           
           { "form" : "Design",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 141,
             "context" : "GAME 220 - Introduction to Game <mark>Design<\/mark>",
             "fid" : "about" } ] },
       
@@ -32,12 +32,12 @@
         [ 
           { "form" : "Designing",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 58,
             "context" : "<mark>Designing<\/mark> and developing About page." },
           
           { "form" : "Designing",
             "weight" : "1",
-            "pos" : 110,
+            "pos" : 77,
             "context" : "<mark>Designing<\/mark> and developing gallery page in EJS and CSS." } ] },
       
       { "docId" : "gallery",
@@ -47,5 +47,5 @@
         [ 
           { "form" : "Designing",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 53,
             "context" : "...various video games in EJS and CSS.My role - <mark>Designing<\/mark> and developing gallery page in EJS and CSS. GitHub    Pie..." } ] } ] }

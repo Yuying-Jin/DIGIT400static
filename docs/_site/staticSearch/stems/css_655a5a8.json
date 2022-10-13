@@ -9,12 +9,12 @@
         [ 
           { "form" : "CSS",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 82,
             "context" : "Designing and developing gallery page in EJS and <mark>CSS<\/mark>." },
           
           { "form" : "CSS",
             "weight" : "1",
-            "pos" : 163,
+            "pos" : 117,
             "context" : "HTML &amp; <mark>CSS<\/mark>" } ] },
       
       { "docId" : "gallery",
@@ -24,10 +24,10 @@
         [ 
           { "form" : "CSS",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 51,
             "context" : "...that showcases projects made for various video games in EJS and <mark>CSS<\/mark>.My role - Designing and developing gallery page in EJS..." },
           
           { "form" : "CSS",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 58,
             "context" : "...My role - Designing and developing gallery page in EJS and <mark>CSS<\/mark>. GitHub    Pie Chart Tutorial Introducing how to draw pie charts..." } ] } ] }

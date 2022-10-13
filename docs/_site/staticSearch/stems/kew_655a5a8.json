@@ -9,20 +9,10 @@
         [ 
           { "form" : "Kew",
             "weight" : "1",
-            "pos" : 4,
-            "context" : "   My Digital Projects    <mark>Kew<\/mark> Gardens Using XML, Relax-NG, XSLT, and..." },
+            "pos" : 3,
+            "context" : "  My Digital Projects    <mark>Kew<\/mark> Gardens Using XML, Relax-NG, XSLT, and..." },
           
           { "form" : "Kew",
             "weight" : "1",
-            "pos" : 16,
-            "context" : "...NG, XSLT, and HTML to transcribe the short story <mark>Kew<\/mark> Gardens by the English author Virginia Woolf.My role -..." } ] },
-      
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Kew",
-            "weight" : "1",
-            "pos" : 89,
-            "context" : "<mark>Kew<\/mark> Gardens" } ] } ] }
+            "pos" : 15,
+            "context" : "...NG, XSLT, and HTML to transcribe the short story <mark>Kew<\/mark> Gardens by the English author Virginia Woolf.My role -..." } ] } ] }

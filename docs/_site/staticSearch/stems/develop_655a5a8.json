@@ -4,22 +4,17 @@
     [ 
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 3,
+        "score" : 2,
         "contexts" : 
         [ 
-          { "form" : "Developer",
-            "weight" : "1",
-            "pos" : 79,
-            "context" : "DIGIT Student Program Web <mark>Developer<\/mark>" },
-          
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 59,
             "context" : "Designing and <mark>developing<\/mark> About page." },
           
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 78,
             "context" : "Designing and <mark>developing<\/mark> gallery page in EJS and CSS." } ] },
       
       { "docId" : "gallery",
@@ -29,5 +24,5 @@
         [ 
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 54,
             "context" : "...games in EJS and CSS.My role - Designing and <mark>developing<\/mark> gallery page in EJS and CSS. GitHub    Pie Chart Tutorial..." } ] } ] }

@@ -2,21 +2,6 @@
   { "stem" : "function",
     "instances" : 
     [ 
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Function",
-            "weight" : "1",
-            "pos" : 137,
-            "context" : "User-defined <mark>Function<\/mark> Tutorial" },
-          
-          { "form" : "functions",
-            "weight" : "1",
-            "pos" : 141,
-            "context" : "Defining how to define <mark>functions<\/mark> in XSLT." } ] },
-      
       { "docId" : "gallery",
         "docUri" : "gallery.html",
         "score" : 2,
@@ -24,10 +9,20 @@
         [ 
           { "form" : "Function",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 81,
             "context" : "...polar coordinates using SVG and XSLT. GitHub    User-defined <mark>Function<\/mark> Tutorial Defining functions in XSLT. GitHub    " },
           
           { "form" : "functions",
             "weight" : "1",
-            "pos" : 85,
-            "context" : "...SVG and XSLT. GitHub    User-defined Function Tutorial Defining <mark>functions<\/mark> in XSLT. GitHub    " } ] } ] }
+            "pos" : 84,
+            "context" : "...SVG and XSLT. GitHub    User-defined Function Tutorial Defining <mark>functions<\/mark> in XSLT. GitHub    " } ] },
+      
+      { "docId" : "cv",
+        "docUri" : "cv.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "functions",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "Defining how to define <mark>functions<\/mark> in XSLT." } ] } ] }

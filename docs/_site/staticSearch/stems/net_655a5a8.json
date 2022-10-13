@@ -9,6 +9,6 @@
         [ 
           { "form" : "Net",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 70,
             "context" : "CMPSC 421 - <mark>Net<\/mark>-centric Computing",
             "fid" : "about" } ] } ] }

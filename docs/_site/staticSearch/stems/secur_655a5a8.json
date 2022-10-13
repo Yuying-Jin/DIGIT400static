@@ -9,6 +9,6 @@
         [ 
           { "form" : "Security",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 78,
             "context" : "CMPSC 443 - Introduction to Computer and Network <mark>Security<\/mark>",
             "fid" : "about" } ] } ] }

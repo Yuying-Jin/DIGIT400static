@@ -9,12 +9,12 @@
         [ 
           { "form" : "Using",
             "weight" : "1",
-            "pos" : 6,
-            "context" : "   My Digital Projects    Kew Gardens <mark>Using<\/mark> XML, Relax-NG, XSLT, and HTML to..." },
+            "pos" : 5,
+            "context" : "  My Digital Projects    Kew Gardens <mark>Using<\/mark> XML, Relax-NG, XSLT, and HTML to..." },
           
           { "form" : "using",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 74,
             "context" : "...-dasharray attribute and how to label them with polar coordinates <mark>using<\/mark> SVG and XSLT. GitHub    User-defined Function Tutorial Defining..." } ] },
       
       { "docId" : "cv",
@@ -24,5 +24,5 @@
         [ 
           { "form" : "Using",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 36,
             "context" : "Inspecting, identifying, and solving coding problems. <mark>Using<\/mark> machine-assisted collation and XSLT to compare five versions of..." } ] } ] }

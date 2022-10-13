@@ -9,15 +9,15 @@
         [ 
           { "form" : "2022",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 29,
             "context" : "At Penn State Behrend (<mark>2022<\/mark> – present)" },
           
           { "form" : "2022",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 50,
             "context" : "At Penn State Behrend (<mark>2022<\/mark>)" },
           
           { "form" : "2022",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 57,
             "context" : "At Penn State Behrend (<mark>2022<\/mark>)" } ] } ] }

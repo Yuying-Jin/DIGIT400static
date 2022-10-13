@@ -2,16 +2,6 @@
   { "stem" : "user",
     "instances" : 
     [ 
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "User",
-            "weight" : "1",
-            "pos" : 135,
-            "context" : "<mark>User<\/mark>-defined Function Tutorial" } ] },
-      
       { "docId" : "gallery",
         "docUri" : "gallery.html",
         "score" : 1,
@@ -19,5 +9,5 @@
         [ 
           { "form" : "User",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 79,
             "context" : "...label them with polar coordinates using SVG and XSLT. GitHub    <mark>User<\/mark>-defined Function Tutorial Defining functions in XSLT. GitHub    " } ] } ] }

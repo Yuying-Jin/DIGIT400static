@@ -9,5 +9,5 @@
         [ 
           { "form" : "major",
             "weight" : "1",
-            "pos" : 20,
-            "context" : "    Double <mark>major<\/mark> in:     " } ] } ] }
+            "pos" : 11,
+            "context" : "  Double <mark>major<\/mark> in:     " } ] } ] }

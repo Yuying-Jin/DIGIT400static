@@ -9,16 +9,6 @@
         [ 
           { "form" : "Language",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 82,
             "context" : "CMPSC 461 - Programming <mark>Language<\/mark> Concepts",
-            "fid" : "about" } ] },
-      
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Language",
-            "weight" : "1",
-            "pos" : 160,
-            "context" : "Code <mark>Language<\/mark>" } ] } ] }
+            "fid" : "about" } ] } ] }

@@ -15,19 +15,19 @@
           
           { "form" : "Science",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 32,
             "context" : "Computer <mark>Science<\/mark>",
             "fid" : "about" },
           
           { "form" : "Science",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 66,
             "context" : "CMPSC 360 - Discrete Mathematics for Computer <mark>Science<\/mark>",
             "fid" : "about" },
           
           { "form" : "Science",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 131,
             "context" : "INART 50Z - The <mark>Science<\/mark> of Music",
             "fid" : "about" } ] },
       
@@ -38,10 +38,10 @@
         [ 
           { "form" : "Science",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 13,
             "context" : "Computer <mark>Science<\/mark>, Bachelor of Science" },
           
           { "form" : "Science",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 15,
             "context" : "Computer Science, Bachelor of <mark>Science<\/mark>" } ] } ] }

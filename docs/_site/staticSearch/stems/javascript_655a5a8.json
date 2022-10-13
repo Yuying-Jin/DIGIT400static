@@ -9,7 +9,7 @@
         [ 
           { "form" : "JavaScript",
             "weight" : "1",
-            "pos" : 161,
+            "pos" : 115,
             "context" : "<mark>JavaScript<\/mark>" } ] },
       
       { "docId" : "search",
