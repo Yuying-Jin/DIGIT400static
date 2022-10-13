@@ -10,7 +10,7 @@
           { "form" : "HTML",
             "weight" : "1",
             "pos" : 113,
-            "context" : ".... Editing the scheme file. Transforming XML to <mark>HTML<\/mark> in XSLT." },
+            "context" : "...in XML. Editing the scheme file. Transforming XML to <mark>HTML<\/mark> in XSLT." },
           
           { "form" : "HTML",
             "weight" : "1",
@@ -25,9 +25,9 @@
           { "form" : "HTML",
             "weight" : "1",
             "pos" : 20,
-            "context" : "...XML, Relax-NG, XSLT, and <mark>HTML<\/mark> to transcribe the short story Kew Gardens by the..." },
+            "context" : "...Gardens Using XML, Relax-NG, XSLT, and <mark>HTML<\/mark> to transcribe the short story Kew Gardens by the English author..." },
           
           { "form" : "HTML",
             "weight" : "1",
             "pos" : 45,
-            "context" : ".... Editing the scheme file. Transforming XML to <mark>HTML<\/mark> in XSLT. GitHub    Weldon's Portfolio Site A portfolio..." } ] } ] }
+            "context" : "...in XML. Editing the scheme file. Transforming XML to <mark>HTML<\/mark> in XSLT. GitHub    Weldon's Portfolio Site A portfolio site that..." } ] } ] }

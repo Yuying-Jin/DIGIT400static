@@ -10,12 +10,12 @@
           { "form" : "English",
             "weight" : "1",
             "pos" : 26,
-            "context" : "...to transcribe the short story Kew Gardens by the <mark>English<\/mark> author Virginia Woolf.My role - Transcribing and..." },
+            "context" : "...and HTML to transcribe the short story Kew Gardens by the <mark>English<\/mark> author Virginia Woolf.My role - Transcribing and marking up..." },
           
           { "form" : "English",
             "weight" : "1",
             "pos" : 35,
-            "context" : "...Transcribing and marking up the short story by the <mark>English<\/mark> author Virginia Woolf in XML. Editing the scheme..." } ] },
+            "context" : "...role - Transcribing and marking up the short story by the <mark>English<\/mark> author Virginia Woolf in XML. Editing the scheme file...." } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
@@ -25,4 +25,4 @@
           { "form" : "English",
             "weight" : "1",
             "pos" : 103,
-            "context" : "...Transcribing and marking up the short story by the <mark>English<\/mark> author Virginia Woolf in XML. Editing the scheme..." } ] } ] }
+            "context" : "Transcribing and marking up the short story by the <mark>English<\/mark> author Virginia Woolf in XML. Editing the scheme file...." } ] } ] }

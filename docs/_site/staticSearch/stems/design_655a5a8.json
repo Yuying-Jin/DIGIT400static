@@ -38,7 +38,7 @@
           { "form" : "Designing",
             "weight" : "1",
             "pos" : 118,
-            "context" : "<mark>Designing<\/mark> and developing gallery page in EJS and CSS...." } ] },
+            "context" : "<mark>Designing<\/mark> and developing gallery page in EJS and CSS." } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -48,4 +48,4 @@
           { "form" : "Designing",
             "weight" : "1",
             "pos" : 62,
-            "context" : "...games in EJS and CSS.My role - <mark>Designing<\/mark> and developing gallery page in EJS and CSS...." } ] } ] }
+            "context" : "...various video games in EJS and CSS.My role - <mark>Designing<\/mark> and developing gallery page in EJS and CSS. GitHub    Pie..." } ] } ] }

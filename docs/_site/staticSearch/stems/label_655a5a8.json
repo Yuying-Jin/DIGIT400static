@@ -10,7 +10,7 @@
           { "form" : "Labeling",
             "weight" : "1",
             "pos" : 135,
-            "context" : "...charts with stroke-dasharray attribute in SVG. <mark>Labeling<\/mark> pie charts with polar coordinates in SVG and XSLT..." } ] },
+            "context" : "...Drawing pie charts with stroke-dasharray attribute in SVG. <mark>Labeling<\/mark> pie charts with polar coordinates in SVG and XSLT." } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -20,4 +20,4 @@
           { "form" : "label",
             "weight" : "1",
             "pos" : 80,
-            "context" : "...charts with stroke-dasharray attribute and how to <mark>label<\/mark> them with polar coordinates using SVG and XSLT...." } ] } ] }
+            "context" : "...draw pie charts with stroke-dasharray attribute and how to <mark>label<\/mark> them with polar coordinates using SVG and XSLT. GitHub    User..." } ] } ] }

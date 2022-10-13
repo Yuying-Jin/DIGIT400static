@@ -10,17 +10,17 @@
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 65,
-            "context" : "...coding problems. Using machine-assisted collation and <mark>XSLT<\/mark> to compare five versions of the novel Frankenstein...." },
+            "context" : "...and solving coding problems. Using machine-assisted collation and <mark>XSLT<\/mark> to compare five versions of the novel Frankenstein." },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 114,
-            "context" : "...the scheme file. Transforming XML to HTML in <mark>XSLT<\/mark>." },
+            "context" : ".... Editing the scheme file. Transforming XML to HTML in <mark>XSLT<\/mark>." },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 141,
-            "context" : "...Labeling pie charts with polar coordinates in SVG and <mark>XSLT<\/mark>." },
+            "context" : "...SVG. Labeling pie charts with polar coordinates in SVG and <mark>XSLT<\/mark>." },
           
           { "form" : "XSLT",
             "weight" : "1",
@@ -40,19 +40,19 @@
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 19,
-            "context" : "...Kew Gardens Using XML, Relax-NG, <mark>XSLT<\/mark>, and HTML to transcribe the short story Kew..." },
+            "context" : "...Digital Projects    Kew Gardens Using XML, Relax-NG, <mark>XSLT<\/mark>, and HTML to transcribe the short story Kew Gardens by..." },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 46,
-            "context" : "...the scheme file. Transforming XML to HTML in <mark>XSLT<\/mark>. GitHub    Weldon's Portfolio Site A portfolio site that..." },
+            "context" : ".... Editing the scheme file. Transforming XML to HTML in <mark>XSLT<\/mark>. GitHub    Weldon's Portfolio Site A portfolio site that showcases projects..." },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 85,
-            "context" : "...to label them with polar coordinates using SVG and <mark>XSLT<\/mark>. GitHub    User-defined Function Tutorial Defining functions..." },
+            "context" : "...and how to label them with polar coordinates using SVG and <mark>XSLT<\/mark>. GitHub    User-defined Function Tutorial Defining functions in XSLT..." },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 94,
-            "context" : "...GitHub    User-defined Function Tutorial Defining functions in <mark>XSLT<\/mark>. GitHub    " } ] } ] }
+            "context" : "...XSLT. GitHub    User-defined Function Tutorial Defining functions in <mark>XSLT<\/mark>. GitHub    " } ] } ] }

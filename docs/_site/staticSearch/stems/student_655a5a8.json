@@ -10,7 +10,7 @@
           { "form" : "student",
             "weight" : "1",
             "pos" : 11,
-            "context" : "I'm a senior <mark>student<\/mark> in Computer Science and Digit in Penn State Erie...",
+            "context" : "I'm a senior <mark>student<\/mark> in Computer Science and Digit in Penn State Erie, Behrend...",
             "fid" : "about" } ] },
       
       { "docId" : "cv",

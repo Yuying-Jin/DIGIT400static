@@ -10,7 +10,7 @@
           { "form" : "4.0",
             "weight" : "1",
             "pos" : 162,
-            "context" : "...is licensed under a Creative Commons Attribution-NonCommercial <mark>4.0<\/mark> International License ",
+            "context" : "...This work is licensed under a Creative Commons Attribution-NonCommercial <mark>4.0<\/mark> International License ",
             "fid" : "license" } ] },
       
       { "docId" : "cv",
@@ -21,7 +21,7 @@
           { "form" : "4.0",
             "weight" : "1",
             "pos" : 187,
-            "context" : "...is licensed under a Creative Commons Attribution-NonCommercial <mark>4.0<\/mark> International License ",
+            "context" : "...This work is licensed under a Creative Commons Attribution-NonCommercial <mark>4.0<\/mark> International License ",
             "fid" : "license" } ] },
       
       { "docId" : "gallery",
@@ -32,5 +32,5 @@
           { "form" : "4.0",
             "weight" : "1",
             "pos" : 104,
-            "context" : "...is licensed under a Creative Commons Attribution-NonCommercial <mark>4.0<\/mark> International License ",
+            "context" : "...This work is licensed under a Creative Commons Attribution-NonCommercial <mark>4.0<\/mark> International License ",
             "fid" : "license" } ] } ] }

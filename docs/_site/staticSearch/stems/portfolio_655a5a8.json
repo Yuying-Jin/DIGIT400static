@@ -15,12 +15,12 @@
           { "form" : "Portfolio",
             "weight" : "1",
             "pos" : 49,
-            "context" : "...Transforming XML to HTML in XSLT. GitHub    Weldon's <mark>Portfolio<\/mark> Site A portfolio site that showcases projects made for..." },
+            "context" : "...file. Transforming XML to HTML in XSLT. GitHub    Weldon's <mark>Portfolio<\/mark> Site A portfolio site that showcases projects made for various video..." },
           
           { "form" : "portfolio",
             "weight" : "1",
             "pos" : 51,
-            "context" : "...HTML in XSLT. GitHub    Weldon's Portfolio Site A <mark>portfolio<\/mark> site that showcases projects made for various video games..." } ] },
+            "context" : "...XML to HTML in XSLT. GitHub    Weldon's Portfolio Site A <mark>portfolio<\/mark> site that showcases projects made for various video games in EJS..." } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",

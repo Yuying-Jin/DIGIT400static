@@ -25,9 +25,9 @@
           { "form" : "Tutorial",
             "weight" : "1",
             "pos" : 71,
-            "context" : "...page in EJS and CSS. GitHub    Pie Chart <mark>Tutorial<\/mark> Introducing how to draw pie charts with stroke-..." },
+            "context" : "...developing gallery page in EJS and CSS. GitHub    Pie Chart <mark>Tutorial<\/mark> Introducing how to draw pie charts with stroke-dasharray attribute..." },
           
           { "form" : "Tutorial",
             "weight" : "1",
             "pos" : 91,
-            "context" : "...SVG and XSLT. GitHub    User-defined Function <mark>Tutorial<\/mark> Defining functions in XSLT. GitHub    " } ] } ] }
+            "context" : "...coordinates using SVG and XSLT. GitHub    User-defined Function <mark>Tutorial<\/mark> Defining functions in XSLT. GitHub    " } ] } ] }

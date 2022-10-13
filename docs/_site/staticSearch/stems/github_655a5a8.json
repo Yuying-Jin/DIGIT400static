@@ -10,22 +10,22 @@
           { "form" : "GitHub",
             "weight" : "1",
             "pos" : 47,
-            "context" : "...file. Transforming XML to HTML in XSLT. <mark>GitHub<\/mark>    Weldon's Portfolio Site A portfolio site that showcases projects..." },
+            "context" : "...the scheme file. Transforming XML to HTML in XSLT. <mark>GitHub<\/mark>    Weldon's Portfolio Site A portfolio site that showcases projects made for..." },
           
           { "form" : "GitHub",
             "weight" : "1",
             "pos" : 68,
-            "context" : "...and developing gallery page in EJS and CSS. <mark>GitHub<\/mark>    Pie Chart Tutorial Introducing how to draw pie charts..." },
+            "context" : "...- Designing and developing gallery page in EJS and CSS. <mark>GitHub<\/mark>    Pie Chart Tutorial Introducing how to draw pie charts with stroke..." },
           
           { "form" : "GitHub",
             "weight" : "1",
             "pos" : 86,
-            "context" : "...them with polar coordinates using SVG and XSLT. <mark>GitHub<\/mark>    User-defined Function Tutorial Defining functions in XSLT..." },
+            "context" : "...to label them with polar coordinates using SVG and XSLT. <mark>GitHub<\/mark>    User-defined Function Tutorial Defining functions in XSLT. GitHub..." },
           
           { "form" : "GitHub",
             "weight" : "1",
             "pos" : 95,
-            "context" : "...-defined Function Tutorial Defining functions in XSLT. <mark>GitHub<\/mark>    " },
+            "context" : "...GitHub    User-defined Function Tutorial Defining functions in XSLT. <mark>GitHub<\/mark>    " },
           
           { "form" : "github",
             "weight" : "1",

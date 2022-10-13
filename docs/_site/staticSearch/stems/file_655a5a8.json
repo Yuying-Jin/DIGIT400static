@@ -10,7 +10,7 @@
           { "form" : "file",
             "weight" : "1",
             "pos" : 110,
-            "context" : "...author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT." } ] },
+            "context" : "...the English author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT." } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -20,4 +20,4 @@
           { "form" : "file",
             "weight" : "1",
             "pos" : 42,
-            "context" : "...author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT. GitHub..." } ] } ] }
+            "context" : "...the English author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT. GitHub    Weldon's Portfolio..." } ] } ] }

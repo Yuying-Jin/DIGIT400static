@@ -1,8 +1,8 @@
 
   { "params" : 
     [ 
-      { "searchFile" : "..\/docs\/_site\/search.html",
-        "versionFile" : "test\/VERSION",
+      { "searchFile" : "..\/..\/DIGIT400static\/docs\/_site\/search.html",
+        "versionFile" : "VERSION",
         "recurse" : "true",
         "linkToFragmentId" : "true",
         "scrollToTextFragment" : "false",
@@ -12,10 +12,10 @@
         "resultsPerPage" : 5,
         "minWordLength" : 2,
         "maxKwicsToHarvest" : 5,
-        "maxKwicsToShow" : 5,
-        "totalKwicLength" : 15,
+        "maxKwicsToShow" : 10,
+        "totalKwicLength" : 20,
         "kwicTruncateString" : "...",
         "verbose" : "false",
         "stopwordsFile" : "stopwords.txt",
-        "dictionaryFile" : "xsl\/english_words.txt",
+        "dictionaryFile" : "..\/xsl\/english_words.txt",
         "indentJSON" : "true" } ] }

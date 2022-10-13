@@ -1,18 +1,3 @@
-/*              ssSearch.js                */
-/* Authors: Martin Holmes and Joey Takeda. */
-/*        University of Victoria.          */
-
-/** This file is part of the projectEndings staticSearch
-  * project.
-  *
-  * Free to anyone for any purpose, but
-  * acknowledgement would be appreciated.
-  */
-  
-/* These rulesets control the display of the 
- * search form elements and search results on 
- * the search page. */
-
 form#ssForm{
     display: flex;
     flex-direction: column;

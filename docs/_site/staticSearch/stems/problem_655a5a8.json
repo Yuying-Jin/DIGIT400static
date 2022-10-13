@@ -10,7 +10,7 @@
           { "form" : "problems",
             "weight" : "1",
             "pos" : 24,
-            "context" : ".... I like to challenge new things and solve <mark>problems<\/mark>. Exposure to new skills and techniques brings me...",
+            "context" : "..., Behrend. I like to challenge new things and solve <mark>problems<\/mark>. Exposure to new skills and techniques brings me great fun...",
             "fid" : "about" } ] },
       
       { "docId" : "cv",
@@ -21,4 +21,4 @@
           { "form" : "problems",
             "weight" : "1",
             "pos" : 59,
-            "context" : "Inspecting, identifying, and solving coding <mark>problems<\/mark>. Using machine-assisted collation and XSLT to..." } ] } ] }
+            "context" : "Inspecting, identifying, and solving coding <mark>problems<\/mark>. Using machine-assisted collation and XSLT to compare five..." } ] } ] }

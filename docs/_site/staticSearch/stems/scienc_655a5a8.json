@@ -10,7 +10,7 @@
           { "form" : "Science",
             "weight" : "1",
             "pos" : 13,
-            "context" : "I'm a senior student in Computer <mark>Science<\/mark> and Digit in Penn State Erie, Behrend....",
+            "context" : "I'm a senior student in Computer <mark>Science<\/mark> and Digit in Penn State Erie, Behrend. I like...",
             "fid" : "about" },
           
           { "form" : "Science",

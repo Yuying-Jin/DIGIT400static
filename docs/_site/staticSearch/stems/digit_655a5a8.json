@@ -15,7 +15,7 @@
           { "form" : "Digit",
             "weight" : "1",
             "pos" : 14,
-            "context" : "I'm a senior student in Computer Science and <mark>Digit<\/mark> in Penn State Erie, Behrend. I like...",
+            "context" : "I'm a senior student in Computer Science and <mark>Digit<\/mark> in Penn State Erie, Behrend. I like to challenge...",
             "fid" : "about" },
           
           { "form" : "Digital",
@@ -97,7 +97,7 @@
           { "form" : "Digital",
             "weight" : "1",
             "pos" : 33,
-            "context" : "<mark>Digital<\/mark> Media, Arts, and Technology (DIGIT),..." },
+            "context" : "<mark>Digital<\/mark> Media, Arts, and Technology (DIGIT), Bachelor of..." },
           
           { "form" : "DIGIT",
             "weight" : "1",
@@ -132,4 +132,4 @@
           { "form" : "Digital",
             "weight" : "1",
             "pos" : 10,
-            "context" : "   My <mark>Digital<\/mark> Projects    Kew Gardens Using XML, Relax-NG..." } ] } ] }
+            "context" : "   My <mark>Digital<\/mark> Projects    Kew Gardens Using XML, Relax-NG, XSLT..." } ] } ] }

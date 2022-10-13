@@ -10,12 +10,12 @@
           { "form" : "story",
             "weight" : "1",
             "pos" : 23,
-            "context" : "..., XSLT, and HTML to transcribe the short <mark>story<\/mark> Kew Gardens by the English author Virginia Woolf...." },
+            "context" : "...-NG, XSLT, and HTML to transcribe the short <mark>story<\/mark> Kew Gardens by the English author Virginia Woolf.My role..." },
           
           { "form" : "story",
             "weight" : "1",
             "pos" : 34,
-            "context" : "...My role - Transcribing and marking up the short <mark>story<\/mark> by the English author Virginia Woolf in XML...." } ] },
+            "context" : "...Woolf.My role - Transcribing and marking up the short <mark>story<\/mark> by the English author Virginia Woolf in XML. Editing the..." } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
@@ -25,4 +25,4 @@
           { "form" : "story",
             "weight" : "1",
             "pos" : 102,
-            "context" : "Transcribing and marking up the short <mark>story<\/mark> by the English author Virginia Woolf in XML...." } ] } ] }
+            "context" : "Transcribing and marking up the short <mark>story<\/mark> by the English author Virginia Woolf in XML. Editing the..." } ] } ] }

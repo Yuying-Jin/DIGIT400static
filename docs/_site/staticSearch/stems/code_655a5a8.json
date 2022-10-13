@@ -15,7 +15,7 @@
           { "form" : "coding",
             "weight" : "1",
             "pos" : 58,
-            "context" : "Inspecting, identifying, and solving <mark>coding<\/mark> problems. Using machine-assisted collation and XSLT..." },
+            "context" : "Inspecting, identifying, and solving <mark>coding<\/mark> problems. Using machine-assisted collation and XSLT to compare..." },
           
           { "form" : "Coding",
             "weight" : "1",

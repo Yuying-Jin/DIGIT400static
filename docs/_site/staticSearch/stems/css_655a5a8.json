@@ -25,9 +25,9 @@
           { "form" : "CSS",
             "weight" : "1",
             "pos" : 60,
-            "context" : "...projects made for various video games in EJS and <mark>CSS<\/mark>.My role - Designing and developing gallery page..." },
+            "context" : "...that showcases projects made for various video games in EJS and <mark>CSS<\/mark>.My role - Designing and developing gallery page in EJS..." },
           
           { "form" : "CSS",
             "weight" : "1",
             "pos" : 67,
-            "context" : "...- Designing and developing gallery page in EJS and <mark>CSS<\/mark>. GitHub    Pie Chart Tutorial Introducing how to draw..." } ] } ] }
+            "context" : "...My role - Designing and developing gallery page in EJS and <mark>CSS<\/mark>. GitHub    Pie Chart Tutorial Introducing how to draw pie charts..." } ] } ] }
