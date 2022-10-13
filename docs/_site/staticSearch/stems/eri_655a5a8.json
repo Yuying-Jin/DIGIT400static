@@ -9,7 +9,7 @@
         [ 
           { "form" : "Erie",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 9,
             "context" : "...a senior student in Computer Science and Digit in Penn State <mark>Erie<\/mark>, Behrend. I like to challenge new things and solve...",
             "fid" : "about" } ] },
       
@@ -20,5 +20,5 @@
         [ 
           { "form" : "Erie",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 16,
             "context" : "Penn State <mark>Erie<\/mark>, The Behrend College" } ] } ] }

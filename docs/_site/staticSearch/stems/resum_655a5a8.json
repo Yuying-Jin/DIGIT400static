@@ -9,5 +9,5 @@
         [ 
           { "form" : "Resume",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 1,
             "context" : "<mark>Resume<\/mark>" } ] } ] }

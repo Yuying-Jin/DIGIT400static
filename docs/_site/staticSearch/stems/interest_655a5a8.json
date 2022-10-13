@@ -9,6 +9,6 @@
         [ 
           { "form" : "Interests",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 28,
             "context" : "Other <mark>Interests<\/mark>",
             "fid" : "about" } ] } ] }

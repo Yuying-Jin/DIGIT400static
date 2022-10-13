@@ -9,7 +9,7 @@
         [ 
           { "form" : "Language",
             "weight" : "1",
-            "pos" : 94,
+            "pos" : 86,
             "context" : "CMPSC 461 - Programming <mark>Language<\/mark> Concepts",
             "fid" : "about" } ] },
       
@@ -20,5 +20,5 @@
         [ 
           { "form" : "Language",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 160,
             "context" : "Code <mark>Language<\/mark>" } ] } ] }

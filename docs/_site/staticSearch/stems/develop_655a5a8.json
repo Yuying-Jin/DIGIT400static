@@ -9,17 +9,17 @@
         [ 
           { "form" : "Developer",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 79,
             "context" : "DIGIT Student Program Web <mark>Developer<\/mark>" },
           
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 85,
             "context" : "Designing and <mark>developing<\/mark> About page." },
           
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 111,
             "context" : "Designing and <mark>developing<\/mark> gallery page in EJS and CSS." } ] },
       
       { "docId" : "gallery",
@@ -29,5 +29,5 @@
         [ 
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 63,
+            "pos" : 55,
             "context" : "...games in EJS and CSS.My role - Designing and <mark>developing<\/mark> gallery page in EJS and CSS. GitHub    Pie Chart Tutorial..." } ] } ] }

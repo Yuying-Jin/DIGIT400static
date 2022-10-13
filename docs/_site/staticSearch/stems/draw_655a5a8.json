@@ -9,7 +9,7 @@
         [ 
           { "form" : "Drawing",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 119,
             "context" : "<mark>Drawing<\/mark> pie charts with stroke-dasharray attribute in SVG. Labeling..." } ] },
       
       { "docId" : "gallery",
@@ -19,5 +19,5 @@
         [ 
           { "form" : "draw",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 65,
             "context" : "...EJS and CSS. GitHub    Pie Chart Tutorial Introducing how to <mark>draw<\/mark> pie charts with stroke-dasharray attribute and how to label..." } ] } ] }

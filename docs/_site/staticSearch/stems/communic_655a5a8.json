@@ -9,6 +9,6 @@
         [ 
           { "form" : "Communication",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 63,
             "context" : "CMPSC 335 - Fundamentals of <mark>Communication<\/mark> Networks",
             "fid" : "about" } ] } ] }

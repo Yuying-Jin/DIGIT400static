@@ -9,10 +9,10 @@
         [ 
           { "form" : "Frankenstein",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 37,
             "context" : "<mark>Frankenstein<\/mark> Variorum Coding Research Assistant" },
           
           { "form" : "Frankenstein",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 62,
             "context" : "...assisted collation and XSLT to compare five versions of the novel <mark>Frankenstein<\/mark>." } ] } ] }

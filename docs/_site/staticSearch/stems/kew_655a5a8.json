@@ -9,12 +9,12 @@
         [ 
           { "form" : "Kew",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 4,
             "context" : "   My Digital Projects    <mark>Kew<\/mark> Gardens Using XML, Relax-NG, XSLT, and..." },
           
           { "form" : "Kew",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 16,
             "context" : "...NG, XSLT, and HTML to transcribe the short story <mark>Kew<\/mark> Gardens by the English author Virginia Woolf.My role -..." } ] },
       
       { "docId" : "cv",
@@ -24,5 +24,5 @@
         [ 
           { "form" : "Kew",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 89,
             "context" : "<mark>Kew<\/mark> Gardens" } ] } ] }

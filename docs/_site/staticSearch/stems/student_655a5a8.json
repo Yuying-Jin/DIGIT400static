@@ -9,7 +9,7 @@
         [ 
           { "form" : "student",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 3,
             "context" : "I'm a senior <mark>student<\/mark> in Computer Science and Digit in Penn State Erie, Behrend...",
             "fid" : "about" } ] },
       
@@ -20,5 +20,5 @@
         [ 
           { "form" : "Student",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 76,
             "context" : "DIGIT <mark>Student<\/mark> Program Web Developer" } ] } ] }

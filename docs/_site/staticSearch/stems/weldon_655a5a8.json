@@ -9,7 +9,7 @@
         [ 
           { "form" : "Weldon's",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 107,
             "context" : "<mark>Weldon's<\/mark> Portfolio Site" } ] },
       
       { "docId" : "gallery",
@@ -19,5 +19,5 @@
         [ 
           { "form" : "Weldon's",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 40,
             "context" : "...scheme file. Transforming XML to HTML in XSLT. GitHub    <mark>Weldon's<\/mark> Portfolio Site A portfolio site that showcases projects made for various..." } ] } ] }

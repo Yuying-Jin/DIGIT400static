@@ -9,7 +9,7 @@
         [ 
           { "form" : "coordinates",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 131,
             "context" : "...-dasharray attribute in SVG. Labeling pie charts with polar <mark>coordinates<\/mark> in SVG and XSLT." } ] },
       
       { "docId" : "gallery",
@@ -19,5 +19,5 @@
         [ 
           { "form" : "coordinates",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 74,
             "context" : "...stroke-dasharray attribute and how to label them with polar <mark>coordinates<\/mark> using SVG and XSLT. GitHub    User-defined Function Tutorial..." } ] } ] }

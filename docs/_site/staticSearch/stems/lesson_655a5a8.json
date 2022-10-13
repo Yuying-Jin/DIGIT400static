@@ -9,6 +9,6 @@
         [ 
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 33,
             "context" : "<mark>Lessons<\/mark> Learned",
             "fid" : "about" } ] } ] }

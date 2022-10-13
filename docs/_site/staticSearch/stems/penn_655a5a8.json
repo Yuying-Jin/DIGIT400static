@@ -9,22 +9,22 @@
         [ 
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 14,
             "context" : "<mark>Penn<\/mark> State Erie, The Behrend College" },
           
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 42,
             "context" : "At <mark>Penn<\/mark> State Behrend (2022 – present)" },
           
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 68,
             "context" : "At <mark>Penn<\/mark> State Behrend (2022)" },
           
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 80,
             "context" : "At <mark>Penn<\/mark> State Behrend (2022)" } ] },
       
       { "docId" : "about",
@@ -34,6 +34,6 @@
         [ 
           { "form" : "Penn",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 7,
             "context" : "I'm a senior student in Computer Science and Digit in <mark>Penn<\/mark> State Erie, Behrend. I like to challenge new things...",
             "fid" : "about" } ] } ] }

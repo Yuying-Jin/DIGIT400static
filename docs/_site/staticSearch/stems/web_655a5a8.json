@@ -9,7 +9,7 @@
         [ 
           { "form" : "Web",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 52,
             "context" : "CMPSC 221 - Object Oriented Programming with <mark>Web<\/mark>-Based Applications",
             "fid" : "about" } ] },
       
@@ -20,5 +20,5 @@
         [ 
           { "form" : "Web",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 78,
             "context" : "DIGIT Student Program <mark>Web<\/mark> Developer" } ] } ] }

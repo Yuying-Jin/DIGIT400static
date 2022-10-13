@@ -4,45 +4,25 @@
     [ 
       { "docId" : "gallery",
         "docUri" : "gallery.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Portfolio",
-            "weight" : "1",
-            "pos" : 4,
-            "context" : "Digital <mark>Portfolio<\/mark>" },
-          
-          { "form" : "Portfolio",
-            "weight" : "1",
-            "pos" : 49,
-            "context" : "...file. Transforming XML to HTML in XSLT. GitHub    Weldon's <mark>Portfolio<\/mark> Site A portfolio site that showcases projects made for various video..." },
-          
-          { "form" : "portfolio",
-            "weight" : "1",
-            "pos" : 51,
-            "context" : "...XML to HTML in XSLT. GitHub    Weldon's Portfolio Site A <mark>portfolio<\/mark> site that showcases projects made for various video games in EJS..." } ] },
-      
-      { "docId" : "cv",
-        "docUri" : "cv.html",
         "score" : 2,
         "contexts" : 
         [ 
           { "form" : "Portfolio",
             "weight" : "1",
-            "pos" : 4,
-            "context" : "Digital <mark>Portfolio<\/mark>" },
+            "pos" : 41,
+            "context" : "...file. Transforming XML to HTML in XSLT. GitHub    Weldon's <mark>Portfolio<\/mark> Site A portfolio site that showcases projects made for various video..." },
           
-          { "form" : "Portfolio",
+          { "form" : "portfolio",
             "weight" : "1",
-            "pos" : 116,
-            "context" : "Weldon's <mark>Portfolio<\/mark> Site" } ] },
+            "pos" : 43,
+            "context" : "...XML to HTML in XSLT. GitHub    Weldon's Portfolio Site A <mark>portfolio<\/mark> site that showcases projects made for various video games in EJS..." } ] },
       
-      { "docId" : "about",
-        "docUri" : "about.html",
+      { "docId" : "cv",
+        "docUri" : "cv.html",
         "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Portfolio",
             "weight" : "1",
-            "pos" : 4,
-            "context" : "Digital <mark>Portfolio<\/mark>" } ] } ] }
+            "pos" : 108,
+            "context" : "Weldon's <mark>Portfolio<\/mark> Site" } ] } ] }

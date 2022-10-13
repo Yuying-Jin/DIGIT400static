@@ -9,22 +9,22 @@
         [ 
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 17,
             "context" : "Penn State Erie, The <mark>Behrend<\/mark> College" },
           
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 44,
             "context" : "At Penn State <mark>Behrend<\/mark> (2022 – present)" },
           
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 70,
             "context" : "At Penn State <mark>Behrend<\/mark> (2022)" },
           
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 82,
             "context" : "At Penn State <mark>Behrend<\/mark> (2022)" } ] },
       
       { "docId" : "about",
@@ -34,6 +34,6 @@
         [ 
           { "form" : "Behrend",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 10,
             "context" : "...student in Computer Science and Digit in Penn State Erie, <mark>Behrend<\/mark>. I like to challenge new things and solve problems....",
             "fid" : "about" } ] } ] }

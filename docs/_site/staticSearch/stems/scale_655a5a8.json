@@ -9,6 +9,6 @@
         [ 
           { "form" : "Scale",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 115,
             "context" : "DIGIT 210 - Large <mark>Scale<\/mark> Text Analysis",
             "fid" : "about" } ] } ] }

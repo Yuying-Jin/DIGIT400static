@@ -9,13 +9,13 @@
         [ 
           { "form" : "skills",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 19,
             "context" : "...to challenge new things and solve problems. Exposure to new <mark>skills<\/mark> and techniques brings me great fun.",
             "fid" : "about" },
           
           { "form" : "Skills",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 24,
             "context" : "<mark>Skills<\/mark>",
             "fid" : "about" } ] },
       
@@ -26,5 +26,16 @@
         [ 
           { "form" : "Skills",
             "weight" : "1",
-            "pos" : 152,
-            "context" : "Computer <mark>Skills<\/mark>" } ] } ] }
+            "pos" : 144,
+            "context" : "Computer <mark>Skills<\/mark>" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skills",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "<mark>Skills<\/mark>",
+            "fid" : "ssForm" } ] } ] }

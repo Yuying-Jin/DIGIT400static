@@ -1,0 +1,14 @@
+
+  { "stem" : "clear",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Clear",
+            "weight" : "1",
+            "pos" : 5,
+            "context" : " This page requires JavaScript.Search<mark>Clear<\/mark>Search                          ",
+            "fid" : "ssClear" } ] } ] }

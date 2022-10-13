@@ -9,12 +9,12 @@
         [ 
           { "form" : "new",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 13,
             "context" : "...in Penn State Erie, Behrend. I like to challenge <mark>new<\/mark> things and solve problems. Exposure to new skills and techniques...",
             "fid" : "about" },
           
           { "form" : "new",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 18,
             "context" : "...like to challenge new things and solve problems. Exposure to <mark>new<\/mark> skills and techniques brings me great fun.",
             "fid" : "about" } ] } ] }

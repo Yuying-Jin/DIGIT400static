@@ -9,12 +9,12 @@
         [ 
           { "form" : "techniques",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 20,
             "context" : "...new things and solve problems. Exposure to new skills and <mark>techniques<\/mark> brings me great fun.",
             "fid" : "about" },
           
           { "form" : "Techniques",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 41,
             "context" : "CMPSC 121 - Introduction to Programming <mark>Techniques<\/mark>",
             "fid" : "about" } ] } ] }

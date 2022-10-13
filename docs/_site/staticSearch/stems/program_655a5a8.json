@@ -9,31 +9,31 @@
         [ 
           { "form" : "Programming",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 25,
             "context" : "<mark>Programming<\/mark>",
             "fid" : "about" },
           
           { "form" : "Programming",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 40,
             "context" : "CMPSC 121 - Introduction to <mark>Programming<\/mark> Techniques",
             "fid" : "about" },
           
           { "form" : "Programming",
             "weight" : "1",
-            "pos" : 53,
+            "pos" : 45,
             "context" : "CMPSC 122 - Intermediate <mark>Programming<\/mark>",
             "fid" : "about" },
           
           { "form" : "Programming",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 50,
             "context" : "CMPSC 221 - Object Oriented <mark>Programming<\/mark> with Web-Based Applications",
             "fid" : "about" },
           
           { "form" : "Programming",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 85,
             "context" : "CMPSC 461 - <mark>Programming<\/mark> Language Concepts",
             "fid" : "about" } ] },
       
@@ -44,5 +44,5 @@
         [ 
           { "form" : "Program",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 77,
             "context" : "DIGIT Student <mark>Program<\/mark> Web Developer" } ] } ] }

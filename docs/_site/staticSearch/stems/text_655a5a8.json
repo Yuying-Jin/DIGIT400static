@@ -9,12 +9,12 @@
         [ 
           { "form" : "Text",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 109,
             "context" : "DIGIT 110 - <mark>Text<\/mark> Encoding Fundamentals",
             "fid" : "about" },
           
           { "form" : "Text",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 116,
             "context" : "DIGIT 210 - Large Scale <mark>Text<\/mark> Analysis",
             "fid" : "about" } ] } ] }

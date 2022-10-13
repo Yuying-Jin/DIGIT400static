@@ -9,12 +9,12 @@
         [ 
           { "form" : "Arts",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 27,
             "context" : "Digital Media, <mark>Arts<\/mark>, and Technology (DIGIT), Bachelor of Art" },
           
           { "form" : "Art",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 31,
             "context" : "...Media, Arts, and Technology (DIGIT), Bachelor of <mark>Art<\/mark>" } ] },
       
       { "docId" : "about",
@@ -24,6 +24,6 @@
         [ 
           { "form" : "ART",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 98,
             "context" : "<mark>ART<\/mark> 168 - The Digital Medium",
             "fid" : "about" } ] } ] }

@@ -9,5 +9,5 @@
         [ 
           { "form" : "workshop",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 73,
             "context" : "Helping <mark>workshop<\/mark> participants." } ] } ] }

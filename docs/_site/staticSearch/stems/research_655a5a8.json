@@ -9,10 +9,10 @@
         [ 
           { "form" : "Research",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 40,
             "context" : "Frankenstein Variorum Coding <mark>Research<\/mark> Assistant" },
           
           { "form" : "Research",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 66,
             "context" : "Digital Mitford Coding <mark>Research<\/mark> Assistant" } ] } ] }

@@ -4,55 +4,35 @@
     [ 
       { "docId" : "gallery",
         "docUri" : "gallery.html",
-        "score" : 5,
+        "score" : 4,
         "contexts" : 
         [ 
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 39,
             "context" : "...the scheme file. Transforming XML to HTML in XSLT. <mark>GitHub<\/mark>    Weldon's Portfolio Site A portfolio site that showcases projects made for..." },
           
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 60,
             "context" : "...- Designing and developing gallery page in EJS and CSS. <mark>GitHub<\/mark>    Pie Chart Tutorial Introducing how to draw pie charts with stroke..." },
           
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 78,
             "context" : "...to label them with polar coordinates using SVG and XSLT. <mark>GitHub<\/mark>    User-defined Function Tutorial Defining functions in XSLT. GitHub..." },
           
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 95,
-            "context" : "...GitHub    User-defined Function Tutorial Defining functions in XSLT. <mark>GitHub<\/mark>    " },
-          
-          { "form" : "github",
-            "weight" : "1",
-            "pos" : 96,
-            "context" : "<mark>github<\/mark>" } ] },
+            "pos" : 87,
+            "context" : "...GitHub    User-defined Function Tutorial Defining functions in XSLT. <mark>GitHub<\/mark>    " } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "GitHub",
             "weight" : "1",
-            "pos" : 158,
-            "context" : "Git &amp; <mark>GitHub<\/mark>" },
-          
-          { "form" : "github",
-            "weight" : "1",
-            "pos" : 179,
-            "context" : "<mark>github<\/mark>" } ] },
-      
-      { "docId" : "about",
-        "docUri" : "about.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "github",
-            "weight" : "1",
-            "pos" : 154,
-            "context" : "<mark>github<\/mark>" } ] } ] }
+            "pos" : 150,
+            "context" : "Git &amp; <mark>GitHub<\/mark>" } ] } ] }

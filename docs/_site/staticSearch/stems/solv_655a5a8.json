@@ -9,7 +9,7 @@
         [ 
           { "form" : "solve",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 15,
             "context" : "...Erie, Behrend. I like to challenge new things and <mark>solve<\/mark> problems. Exposure to new skills and techniques brings me great...",
             "fid" : "about" } ] },
       
@@ -20,5 +20,5 @@
         [ 
           { "form" : "solving",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 49,
             "context" : "Inspecting, identifying, and <mark>solving<\/mark> coding problems. Using machine-assisted collation and XSLT to..." } ] } ] }

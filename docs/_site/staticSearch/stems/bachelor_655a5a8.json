@@ -9,10 +9,10 @@
         [ 
           { "form" : "Bachelor",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 23,
             "context" : "Computer Science, <mark>Bachelor<\/mark> of Science" },
           
           { "form" : "Bachelor",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 30,
             "context" : "Digital Media, Arts, and Technology (DIGIT), <mark>Bachelor<\/mark> of Art" } ] } ] }

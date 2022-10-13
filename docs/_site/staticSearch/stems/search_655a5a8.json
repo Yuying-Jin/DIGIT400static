@@ -2,32 +2,31 @@
   { "stem" : "search",
     "instances" : 
     [ 
-      { "docId" : "about",
-        "docUri" : "about.html",
-        "score" : 1,
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 4,
         "contexts" : 
         [ 
           { "form" : "Search",
             "weight" : "1",
-            "pos" : 8,
-            "context" : " Home About CV Gallery <mark>Search<\/mark> " } ] },
-      
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
+            "pos" : 4,
+            "context" : " This page requires JavaScript.<mark>Search<\/mark>ClearSearch                          ",
+            "fid" : "ssDoSearch" },
+          
           { "form" : "Search",
             "weight" : "1",
-            "pos" : 8,
-            "context" : " Home About CV Gallery <mark>Search<\/mark> " } ] },
-      
-      { "docId" : "gallery",
-        "docUri" : "gallery.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
+            "pos" : 6,
+            "context" : "  <mark>Search<\/mark> only in      ",
+            "fid" : "ssForm" },
+          
           { "form" : "Search",
             "weight" : "1",
-            "pos" : 8,
-            "context" : " Home About CV Gallery <mark>Search<\/mark> " } ] } ] }
+            "pos" : 9,
+            "context" : " This page requires JavaScript.SearchClear<mark>Search<\/mark>                          ",
+            "fid" : "ssDoSearch2" },
+          
+          { "form" : "Searching",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "<mark>Searching<\/mark>...",
+            "fid" : "ssSearching" } ] } ] }

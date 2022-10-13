@@ -9,6 +9,6 @@
         [ 
           { "form" : "Structures",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 91,
             "context" : "CMPSC 465 - Data <mark>Structures<\/mark> and Algorithms",
             "fid" : "about" } ] } ] }

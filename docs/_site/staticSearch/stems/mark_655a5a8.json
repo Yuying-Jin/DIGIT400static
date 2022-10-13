@@ -9,7 +9,7 @@
         [ 
           { "form" : "marking",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 92,
             "context" : "Transcribing and <mark>marking<\/mark> up the short story by the English author Virginia Woolf in..." } ] },
       
       { "docId" : "gallery",
@@ -19,5 +19,5 @@
         [ 
           { "form" : "marking",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 24,
             "context" : "...the English author Virginia Woolf.My role - Transcribing and <mark>marking<\/mark> up the short story by the English author Virginia Woolf in..." } ] } ] }

@@ -9,7 +9,7 @@
         [ 
           { "form" : "User-defined",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 134,
             "context" : "<mark>User-defined<\/mark> Function Tutorial" } ] },
       
       { "docId" : "gallery",
@@ -19,5 +19,5 @@
         [ 
           { "form" : "User-defined",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 79,
             "context" : "...label them with polar coordinates using SVG and XSLT. GitHub    <mark>User-defined<\/mark> Function Tutorial Defining functions in XSLT. GitHub    " } ] } ] }

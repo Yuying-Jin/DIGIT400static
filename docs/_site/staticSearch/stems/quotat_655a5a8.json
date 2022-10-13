@@ -1,0 +1,14 @@
+
+  { "stem" : "quotat",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quotations",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "<mark>Quotations<\/mark>",
+            "fid" : "ssForm" } ] } ] }

@@ -9,5 +9,16 @@
         [ 
           { "form" : "JavaScript",
             "weight" : "1",
-            "pos" : 169,
-            "context" : "<mark>JavaScript<\/mark>" } ] } ] }
+            "pos" : 161,
+            "context" : "<mark>JavaScript<\/mark>" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "JavaScript",
+            "weight" : "1",
+            "pos" : 3,
+            "context" : " This page requires <mark>JavaScript<\/mark>.SearchClearSearch                          ",
+            "fid" : "staticSearch" } ] } ] }

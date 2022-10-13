@@ -9,6 +9,6 @@
         [ 
           { "form" : "Analysis",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 117,
             "context" : "DIGIT 210 - Large Scale Text <mark>Analysis<\/mark>",
             "fid" : "about" } ] } ] }

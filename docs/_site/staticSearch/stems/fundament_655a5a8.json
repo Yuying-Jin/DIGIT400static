@@ -9,18 +9,18 @@
         [ 
           { "form" : "Fundamentals",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 62,
             "context" : "CMPSC 335 - <mark>Fundamentals<\/mark> of Communication Networks",
             "fid" : "about" },
           
           { "form" : "Fundamentals",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 111,
             "context" : "DIGIT 110 - Text Encoding <mark>Fundamentals<\/mark>",
             "fid" : "about" },
           
           { "form" : "Fundamentals",
             "weight" : "1",
-            "pos" : 148,
+            "pos" : 140,
             "context" : "DART 204 - Animation <mark>Fundamentals<\/mark>",
             "fid" : "about" } ] } ] }

@@ -9,7 +9,7 @@
         [ 
           { "form" : "problems",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 16,
             "context" : "..., Behrend. I like to challenge new things and solve <mark>problems<\/mark>. Exposure to new skills and techniques brings me great fun...",
             "fid" : "about" } ] },
       
@@ -20,5 +20,5 @@
         [ 
           { "form" : "problems",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 51,
             "context" : "Inspecting, identifying, and solving coding <mark>problems<\/mark>. Using machine-assisted collation and XSLT to compare five..." } ] } ] }

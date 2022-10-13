@@ -9,6 +9,6 @@
         [ 
           { "form" : "senior",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 2,
             "context" : "I'm a <mark>senior<\/mark> student in Computer Science and Digit in Penn State Erie,...",
             "fid" : "about" } ] } ] }

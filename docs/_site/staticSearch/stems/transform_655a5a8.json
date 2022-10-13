@@ -9,7 +9,7 @@
         [ 
           { "form" : "Transforming",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 103,
             "context" : "...author Virginia Woolf in XML. Editing the scheme file. <mark>Transforming<\/mark> XML to HTML in XSLT." } ] },
       
       { "docId" : "gallery",
@@ -19,5 +19,5 @@
         [ 
           { "form" : "Transforming",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 35,
             "context" : "...author Virginia Woolf in XML. Editing the scheme file. <mark>Transforming<\/mark> XML to HTML in XSLT. GitHub    Weldon's Portfolio Site A..." } ] } ] }

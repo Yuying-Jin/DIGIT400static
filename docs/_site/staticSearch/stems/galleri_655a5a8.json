@@ -4,45 +4,25 @@
     [ 
       { "docId" : "gallery",
         "docUri" : "gallery.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Gallery",
-            "weight" : "1",
-            "pos" : 7,
-            "context" : " Home About CV <mark>Gallery<\/mark> Search " },
-          
-          { "form" : "Gallery",
-            "weight" : "1",
-            "pos" : 9,
-            "context" : "<mark>Gallery<\/mark>" },
-          
-          { "form" : "gallery",
-            "weight" : "1",
-            "pos" : 64,
-            "context" : "...in EJS and CSS.My role - Designing and developing <mark>gallery<\/mark> page in EJS and CSS. GitHub    Pie Chart Tutorial Introducing..." } ] },
-      
-      { "docId" : "cv",
-        "docUri" : "cv.html",
         "score" : 2,
         "contexts" : 
         [ 
           { "form" : "Gallery",
             "weight" : "1",
-            "pos" : 7,
-            "context" : " Home About CV <mark>Gallery<\/mark> Search " },
+            "pos" : 1,
+            "context" : "<mark>Gallery<\/mark>" },
           
           { "form" : "gallery",
             "weight" : "1",
-            "pos" : 120,
-            "context" : "Designing and developing <mark>gallery<\/mark> page in EJS and CSS." } ] },
+            "pos" : 56,
+            "context" : "...in EJS and CSS.My role - Designing and developing <mark>gallery<\/mark> page in EJS and CSS. GitHub    Pie Chart Tutorial Introducing..." } ] },
       
-      { "docId" : "about",
-        "docUri" : "about.html",
+      { "docId" : "cv",
+        "docUri" : "cv.html",
         "score" : 1,
         "contexts" : 
         [ 
-          { "form" : "Gallery",
+          { "form" : "gallery",
             "weight" : "1",
-            "pos" : 7,
-            "context" : " Home About CV <mark>Gallery<\/mark> Search " } ] } ] }
+            "pos" : 112,
+            "context" : "Designing and developing <mark>gallery<\/mark> page in EJS and CSS." } ] } ] }

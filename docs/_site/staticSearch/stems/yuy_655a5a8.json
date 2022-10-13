@@ -4,35 +4,10 @@
     [ 
       { "docId" : "cv",
         "docUri" : "cv.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Yuying",
-            "weight" : "1",
-            "pos" : 1,
-            "context" : "<mark>Yuying<\/mark> Jin" },
-          
-          { "form" : "Yuying",
-            "weight" : "1",
-            "pos" : 12,
-            "context" : "<mark>Yuying<\/mark> Jin" } ] },
-      
-      { "docId" : "about",
-        "docUri" : "about.html",
         "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Yuying",
             "weight" : "1",
-            "pos" : 1,
-            "context" : "<mark>Yuying<\/mark> Jin" } ] },
-      
-      { "docId" : "gallery",
-        "docUri" : "gallery.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Yuying",
-            "weight" : "1",
-            "pos" : 1,
+            "pos" : 4,
             "context" : "<mark>Yuying<\/mark> Jin" } ] } ] }
