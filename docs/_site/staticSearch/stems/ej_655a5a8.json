@@ -15,7 +15,9 @@
           { "form" : "EJS",
             "weight" : "1",
             "pos" : 118,
-            "context" : "<mark>EJS<\/mark>" } ] },
+            "context" : "<mark>EJS<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",

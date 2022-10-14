@@ -9,6 +9,6 @@
         [ 
           { "form" : "Clear",
             "weight" : "1",
-            "pos" : 5,
-            "context" : " This page requires JavaScript.Search<mark>Clear<\/mark>Search                          ",
+            "pos" : 2,
+            "context" : "    Search <mark>Clear<\/mark> Search                            ",
             "fid" : "ssClear" } ] } ] }

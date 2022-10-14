@@ -20,7 +20,9 @@
           { "form" : "SVG",
             "weight" : "1",
             "pos" : 120,
-            "context" : "<mark>SVG<\/mark>" } ] },
+            "context" : "<mark>SVG<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",

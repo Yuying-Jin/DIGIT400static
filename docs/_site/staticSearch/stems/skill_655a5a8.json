@@ -20,6 +20,6 @@
         [ 
           { "form" : "Skills",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 5,
             "context" : "<mark>Skills<\/mark>",
             "fid" : "ssForm" } ] } ] }

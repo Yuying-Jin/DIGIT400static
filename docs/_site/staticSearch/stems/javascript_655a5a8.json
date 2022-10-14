@@ -10,15 +10,6 @@
           { "form" : "JavaScript",
             "weight" : "1",
             "pos" : 115,
-            "context" : "<mark>JavaScript<\/mark>" } ] },
-      
-      { "docId" : "search",
-        "docUri" : "search.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "JavaScript",
-            "weight" : "1",
-            "pos" : 3,
-            "context" : " This page requires <mark>JavaScript<\/mark>.SearchClearSearch                          ",
-            "fid" : "staticSearch" } ] } ] }
+            "context" : "<mark>JavaScript<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

@@ -30,7 +30,9 @@
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 124,
-            "context" : "<mark>XSLT<\/mark>" } ] },
+            "context" : "<mark>XSLT<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",

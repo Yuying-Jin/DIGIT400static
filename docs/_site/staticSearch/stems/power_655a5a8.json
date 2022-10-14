@@ -9,6 +9,6 @@
         [ 
           { "form" : "Powered",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 8,
             "context" : "<mark>Powered<\/mark> by",
             "fid" : "ssPoweredBy" } ] } ] }

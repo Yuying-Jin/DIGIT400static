@@ -10,7 +10,9 @@
           { "form" : "NG",
             "weight" : "1",
             "pos" : 123,
-            "context" : "Relax <mark>NG<\/mark>" } ] },
+            "context" : "Relax <mark>NG<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",

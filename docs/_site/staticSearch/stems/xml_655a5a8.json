@@ -20,12 +20,16 @@
           { "form" : "XML",
             "weight" : "1",
             "pos" : 103,
-            "context" : "oXygen <mark>XML<\/mark>" },
+            "context" : "oXygen <mark>XML<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] },
           
           { "form" : "XML",
             "weight" : "1",
             "pos" : 121,
-            "context" : "<mark>XML<\/mark>" } ] },
+            "context" : "<mark>XML<\/mark>",
+            "in" : 
+            [ "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
