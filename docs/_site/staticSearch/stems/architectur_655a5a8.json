@@ -9,6 +9,6 @@
         [ 
           { "form" : "Architecture",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 53,
             "context" : "CMPSC 312 - Computer Organization and <mark>Architecture<\/mark>",
             "fid" : "about" } ] } ] }

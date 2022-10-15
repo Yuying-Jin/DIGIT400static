@@ -9,5 +9,5 @@
         [ 
           { "form" : "machine-assisted",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "Inspecting, identifying, and solving coding problems. Using <mark>machine-assisted<\/mark> collation and XSLT to compare five versions of the novel Frankenstein..." } ] } ] }

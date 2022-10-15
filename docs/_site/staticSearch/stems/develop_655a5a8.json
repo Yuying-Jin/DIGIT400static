@@ -9,13 +9,15 @@
         [ 
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 46,
             "context" : "Designing and <mark>developing<\/mark> About page." },
           
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 78,
-            "context" : "Designing and <mark>developing<\/mark> gallery page in EJS and CSS." } ] },
+            "pos" : 65,
+            "context" : "Designing and <mark>developing<\/mark> gallery page in EJS and CSS.",
+            "in" : 
+            [ "ssCtx3" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -25,4 +27,6 @@
           { "form" : "developing",
             "weight" : "1",
             "pos" : 54,
-            "context" : "...games in EJS and CSS.My role - Designing and <mark>developing<\/mark> gallery page in EJS and CSS. GitHub    Pie Chart Tutorial..." } ] } ] }
+            "context" : "...games in EJS and CSS.My role - Designing and <mark>developing<\/mark> gallery page in EJS and CSS. GitHub ",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

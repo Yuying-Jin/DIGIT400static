@@ -9,14 +9,14 @@
         [ 
           { "form" : "Adobe",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 94,
             "context" : "<mark>Adobe<\/mark> After Effects",
             "in" : 
             [ "ssCtx2" ] },
           
           { "form" : "Adobe",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 96,
             "context" : "<mark>Adobe<\/mark> Photoshop",
             "in" : 
             [ "ssCtx2" ] } ] } ] }

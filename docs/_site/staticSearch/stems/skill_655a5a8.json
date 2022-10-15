@@ -11,15 +11,4 @@
             "weight" : "1",
             "pos" : 19,
             "context" : "...to challenge new things and solve problems. Exposure to new <mark>skills<\/mark> and techniques brings me great fun.",
-            "fid" : "about" } ] },
-      
-      { "docId" : "search",
-        "docUri" : "search.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Skills",
-            "weight" : "1",
-            "pos" : 5,
-            "context" : "<mark>Skills<\/mark>",
-            "fid" : "ssForm" } ] } ] }
+            "fid" : "about" } ] } ] }

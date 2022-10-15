@@ -9,5 +9,5 @@
         [ 
           { "form" : "versions",
             "weight" : "1",
-            "pos" : 44,
+            "pos" : 39,
             "context" : ".... Using machine-assisted collation and XSLT to compare five <mark>versions<\/mark> of the novel Frankenstein." } ] } ] }

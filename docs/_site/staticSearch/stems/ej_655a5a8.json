@@ -9,12 +9,14 @@
         [ 
           { "form" : "EJS",
             "weight" : "1",
-            "pos" : 81,
-            "context" : "Designing and developing gallery page in <mark>EJS<\/mark> and CSS." },
+            "pos" : 68,
+            "context" : "Designing and developing gallery page in <mark>EJS<\/mark> and CSS.",
+            "in" : 
+            [ "ssCtx3" ] },
           
           { "form" : "EJS",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 105,
             "context" : "<mark>EJS<\/mark>",
             "in" : 
             [ "ssCtx2" ] } ] },
@@ -27,9 +29,13 @@
           { "form" : "EJS",
             "weight" : "1",
             "pos" : 50,
-            "context" : "...portfolio site that showcases projects made for various video games in <mark>EJS<\/mark> and CSS.My role - Designing and developing gallery page..." },
+            "context" : "...portfolio site that showcases projects made for various video games in <mark>EJS<\/mark> and CSS.My role - Designing and developing gallery page...",
+            "in" : 
+            [ "ssCtx3" ] },
           
           { "form" : "EJS",
             "weight" : "1",
             "pos" : 57,
-            "context" : "...CSS.My role - Designing and developing gallery page in <mark>EJS<\/mark> and CSS. GitHub    Pie Chart Tutorial Introducing how to draw..." } ] } ] }
+            "context" : "...CSS.My role - Designing and developing gallery page in <mark>EJS<\/mark> and CSS. GitHub ",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

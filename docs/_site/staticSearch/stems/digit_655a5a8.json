@@ -4,7 +4,7 @@
     [ 
       { "docId" : "about",
         "docUri" : "about.html",
-        "score" : 12,
+        "score" : 11,
         "contexts" : 
         [ 
           { "form" : "Digit",
@@ -19,63 +19,57 @@
             "context" : "<mark>Digital<\/mark> painting",
             "fid" : "about" },
           
-          { "form" : "DIGIT",
-            "weight" : "1",
-            "pos" : 89,
-            "context" : "<mark>DIGIT<\/mark>",
-            "fid" : "about" },
-          
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 93,
             "context" : "ART 168 - The <mark>Digital<\/mark> Medium",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 98,
+            "pos" : 95,
             "context" : "<mark>DIGIT<\/mark> 100 - Introduction to Digital Humanities",
             "fid" : "about" },
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 98,
             "context" : "DIGIT 100 - Introduction to <mark>Digital<\/mark> Humanities",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 100,
             "context" : "<mark>DIGIT<\/mark> 110 - Text Encoding Fundamentals",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 105,
             "context" : "<mark>DIGIT<\/mark> 210 - Large Scale Text Analysis",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 111,
             "context" : "<mark>DIGIT<\/mark> 400 - Digital Project Design",
             "fid" : "about" },
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 116,
+            "pos" : 113,
             "context" : "DIGIT 400 - <mark>Digital<\/mark> Project Design",
             "fid" : "about" },
           
           { "form" : "DIGIT",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 116,
             "context" : "<mark>DIGIT<\/mark> 409 - Advanced Digital Creations",
             "fid" : "about" },
           
           { "form" : "Digital",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 119,
             "context" : "DIGIT 409 - Advanced <mark>Digital<\/mark> Creations",
             "fid" : "about" } ] },
       
@@ -102,4 +96,4 @@
           { "form" : "Digital",
             "weight" : "1",
             "pos" : 1,
-            "context" : "  My <mark>Digital<\/mark> Projects    Kew Gardens Using XML, Relax-NG, XSLT..." } ] } ] }
+            "context" : "  My <mark>Digital<\/mark> Projects        " } ] } ] }

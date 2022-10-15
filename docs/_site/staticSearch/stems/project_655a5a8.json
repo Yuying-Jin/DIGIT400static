@@ -10,12 +10,14 @@
           { "form" : "Projects",
             "weight" : "1",
             "pos" : 2,
-            "context" : "  My Digital <mark>Projects<\/mark>    Kew Gardens Using XML, Relax-NG, XSLT,..." },
+            "context" : "  My Digital <mark>Projects<\/mark>        " },
           
           { "form" : "projects",
             "weight" : "1",
             "pos" : 45,
-            "context" : "...XSLT. GitHub    Weldon's Portfolio Site A portfolio site that showcases <mark>projects<\/mark> made for various video games in EJS and CSS.My..." } ] },
+            "context" : "  Weldon's Portfolio Site A portfolio site that showcases <mark>projects<\/mark> made for various video games in EJS and CSS.My...",
+            "in" : 
+            [ "ssCtx3" ] } ] },
       
       { "docId" : "about",
         "docUri" : "about.html",
@@ -24,6 +26,6 @@
         [ 
           { "form" : "Project",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 114,
             "context" : "DIGIT 400 - Digital <mark>Project<\/mark> Design",
             "fid" : "about" } ] } ] }

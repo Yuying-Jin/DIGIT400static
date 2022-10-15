@@ -4,7 +4,7 @@
     [ 
       { "docId" : "about",
         "docUri" : "about.html",
-        "score" : 6,
+        "score" : 5,
         "contexts" : 
         [ 
           { "form" : "Computer",
@@ -15,31 +15,25 @@
           
           { "form" : "Computer",
             "weight" : "1",
-            "pos" : 31,
-            "context" : "<mark>Computer<\/mark> Science",
-            "fid" : "about" },
-          
-          { "form" : "Computer",
-            "weight" : "1",
-            "pos" : 53,
+            "pos" : 51,
             "context" : "CMPSC 312 - <mark>Computer<\/mark> Organization and Architecture",
             "fid" : "about" },
           
           { "form" : "Computer",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 63,
             "context" : "CMPSC 360 - Discrete Mathematics for <mark>Computer<\/mark> Science",
             "fid" : "about" },
           
           { "form" : "Computing",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 70,
             "context" : "CMPSC 421 - Net-centric <mark>Computing<\/mark>",
             "fid" : "about" },
           
           { "form" : "Computer",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 74,
             "context" : "CMPSC 443 - Introduction to <mark>Computer<\/mark> and Network Security",
             "fid" : "about" } ] },
       

@@ -9,8 +9,10 @@
         [ 
           { "form" : "Editing",
             "weight" : "1",
-            "pos" : 70,
-            "context" : "...short story by the English author Virginia Woolf in XML. <mark>Editing<\/mark> the scheme file. Transforming XML to HTML in XSLT...." } ] },
+            "pos" : 57,
+            "context" : "...short story by the English author Virginia Woolf in XML. <mark>Editing<\/mark> the scheme file. Transforming XML to HTML in XSLT....",
+            "in" : 
+            [ "ssCtx3" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -20,4 +22,6 @@
           { "form" : "Editing",
             "weight" : "1",
             "pos" : 31,
-            "context" : "...short story by the English author Virginia Woolf in XML. <mark>Editing<\/mark> the scheme file. Transforming XML to HTML in XSLT...." } ] } ] }
+            "context" : "...short story by the English author Virginia Woolf in XML. <mark>Editing<\/mark> the scheme file. Transforming XML to HTML in XSLT....",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -9,36 +9,36 @@
         [ 
           { "form" : "Introduction",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 33,
             "context" : "CMPSC 121 - <mark>Introduction<\/mark> to Programming Techniques",
             "fid" : "about" },
           
           { "form" : "Introduction",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 73,
             "context" : "CMPSC 443 - <mark>Introduction<\/mark> to Computer and Network Security",
             "fid" : "about" },
           
           { "form" : "Introduction",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 89,
             "context" : "PHOTO 100 - <mark>Introduction<\/mark> to Photography",
             "fid" : "about" },
           
           { "form" : "Introduction",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 97,
             "context" : "DIGIT 100 - <mark>Introduction<\/mark> to Digital Humanities",
             "fid" : "about" },
           
           { "form" : "Introduction",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 123,
             "context" : "GD 100 - <mark>Introduction<\/mark> to Graphic Design",
             "fid" : "about" },
           
           { "form" : "Introduction",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 136,
             "context" : "GAME 220 - <mark>Introduction<\/mark> to Game Design",
             "fid" : "about" } ] } ] }

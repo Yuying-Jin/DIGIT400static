@@ -9,12 +9,12 @@
         [ 
           { "form" : "Networks",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 58,
             "context" : "CMPSC 335 - Fundamentals of Communication <mark>Networks<\/mark>",
             "fid" : "about" },
           
           { "form" : "Network",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 75,
             "context" : "CMPSC 443 - Introduction to Computer and <mark>Network<\/mark> Security",
             "fid" : "about" } ] } ] }

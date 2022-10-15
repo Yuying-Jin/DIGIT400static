@@ -9,18 +9,18 @@
         [ 
           { "form" : "100",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 88,
             "context" : "PHOTO <mark>100<\/mark> - Introduction to Photography",
             "fid" : "about" },
           
           { "form" : "100",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 96,
             "context" : "DIGIT <mark>100<\/mark> - Introduction to Digital Humanities",
             "fid" : "about" },
           
           { "form" : "100",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 122,
             "context" : "GD <mark>100<\/mark> - Introduction to Graphic Design",
             "fid" : "about" } ] } ] }

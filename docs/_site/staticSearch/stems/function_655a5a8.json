@@ -10,12 +10,16 @@
           { "form" : "Function",
             "weight" : "1",
             "pos" : 81,
-            "context" : "...polar coordinates using SVG and XSLT. GitHub    User-defined <mark>Function<\/mark> Tutorial Defining functions in XSLT. GitHub    " },
+            "context" : "  User-defined <mark>Function<\/mark> Tutorial Defining functions in XSLT. GitHub ",
+            "in" : 
+            [ "ssCtx3" ] },
           
           { "form" : "functions",
             "weight" : "1",
             "pos" : 84,
-            "context" : "...SVG and XSLT. GitHub    User-defined Function Tutorial Defining <mark>functions<\/mark> in XSLT. GitHub    " } ] },
+            "context" : "  User-defined Function Tutorial Defining <mark>functions<\/mark> in XSLT. GitHub ",
+            "in" : 
+            [ "ssCtx3" ] } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
@@ -24,5 +28,7 @@
         [ 
           { "form" : "functions",
             "weight" : "1",
-            "pos" : 100,
-            "context" : "Defining how to define <mark>functions<\/mark> in XSLT." } ] } ] }
+            "pos" : 87,
+            "context" : "Defining how to define <mark>functions<\/mark> in XSLT.",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

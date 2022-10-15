@@ -2,26 +2,6 @@
   { "stem" : "state",
     "instances" : 
     [ 
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "State",
-            "weight" : "1",
-            "pos" : 27,
-            "context" : "At Penn <mark>State<\/mark> Behrend (2022 – present)" },
-          
-          { "form" : "State",
-            "weight" : "1",
-            "pos" : 48,
-            "context" : "At Penn <mark>State<\/mark> Behrend (2022)" },
-          
-          { "form" : "State",
-            "weight" : "1",
-            "pos" : 55,
-            "context" : "At Penn <mark>State<\/mark> Behrend (2022)" } ] },
-      
       { "docId" : "about",
         "docUri" : "about.html",
         "score" : 1,

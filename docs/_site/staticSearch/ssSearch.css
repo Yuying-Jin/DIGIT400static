@@ -1,6 +1,7 @@
 form#ssForm{
     display: flex;
     flex-direction: column;
+    display: block;
 }
 span.ssQueryAndButton{
     display: flex;
@@ -131,8 +132,6 @@ div#ssResults > div#ssPagination{
 div#ssResults > div#ssPagination > button{
     margin: 0 .5rem;
 }
-
-
 
 /* Alternate bg colour. */
 /*div#ssResults>ul>li:nth-child(2n) {*/

@@ -2,26 +2,6 @@
   { "stem" : "penn",
     "instances" : 
     [ 
-      { "docId" : "cv",
-        "docUri" : "cv.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Penn",
-            "weight" : "1",
-            "pos" : 26,
-            "context" : "At <mark>Penn<\/mark> State Behrend (2022 – present)" },
-          
-          { "form" : "Penn",
-            "weight" : "1",
-            "pos" : 47,
-            "context" : "At <mark>Penn<\/mark> State Behrend (2022)" },
-          
-          { "form" : "Penn",
-            "weight" : "1",
-            "pos" : 54,
-            "context" : "At <mark>Penn<\/mark> State Behrend (2022)" } ] },
-      
       { "docId" : "about",
         "docUri" : "about.html",
         "score" : 1,

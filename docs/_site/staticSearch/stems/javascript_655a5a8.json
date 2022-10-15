@@ -9,7 +9,7 @@
         [ 
           { "form" : "JavaScript",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 102,
             "context" : "<mark>JavaScript<\/mark>",
             "in" : 
             [ "ssCtx2" ] } ] } ] }

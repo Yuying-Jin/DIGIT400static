@@ -9,7 +9,7 @@
         [ 
           { "form" : "Photoshop",
             "weight" : "1",
-            "pos" : 110,
+            "pos" : 97,
             "context" : "Adobe <mark>Photoshop<\/mark>",
             "in" : 
             [ "ssCtx2" ] } ] } ] }

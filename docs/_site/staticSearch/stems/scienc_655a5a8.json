@@ -4,7 +4,7 @@
     [ 
       { "docId" : "about",
         "docUri" : "about.html",
-        "score" : 4,
+        "score" : 3,
         "contexts" : 
         [ 
           { "form" : "Science",
@@ -15,19 +15,13 @@
           
           { "form" : "Science",
             "weight" : "1",
-            "pos" : 32,
-            "context" : "Computer <mark>Science<\/mark>",
-            "fid" : "about" },
-          
-          { "form" : "Science",
-            "weight" : "1",
-            "pos" : 66,
+            "pos" : 64,
             "context" : "CMPSC 360 - Discrete Mathematics for Computer <mark>Science<\/mark>",
             "fid" : "about" },
           
           { "form" : "Science",
             "weight" : "1",
-            "pos" : 131,
+            "pos" : 128,
             "context" : "INART 50Z - The <mark>Science<\/mark> of Music",
             "fid" : "about" } ] },
       

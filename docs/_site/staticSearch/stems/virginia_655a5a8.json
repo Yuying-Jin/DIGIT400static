@@ -10,12 +10,16 @@
           { "form" : "Virginia",
             "weight" : "1",
             "pos" : 19,
-            "context" : "...to transcribe the short story Kew Gardens by the English author <mark>Virginia<\/mark> Woolf.My role - Transcribing and marking up the short..." },
+            "context" : "...to transcribe the short story Kew Gardens by the English author <mark>Virginia<\/mark> Woolf.My role - Transcribing and marking up the short...",
+            "in" : 
+            [ "ssCtx3" ] },
           
           { "form" : "Virginia",
             "weight" : "1",
             "pos" : 28,
-            "context" : "...Transcribing and marking up the short story by the English author <mark>Virginia<\/mark> Woolf in XML. Editing the scheme file. Transforming XML..." } ] },
+            "context" : "...Transcribing and marking up the short story by the English author <mark>Virginia<\/mark> Woolf in XML. Editing the scheme file. Transforming XML...",
+            "in" : 
+            [ "ssCtx3" ] } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
@@ -24,5 +28,7 @@
         [ 
           { "form" : "Virginia",
             "weight" : "1",
-            "pos" : 67,
-            "context" : "...Transcribing and marking up the short story by the English author <mark>Virginia<\/mark> Woolf in XML. Editing the scheme file. Transforming XML..." } ] } ] }
+            "pos" : 54,
+            "context" : "...Transcribing and marking up the short story by the English author <mark>Virginia<\/mark> Woolf in XML. Editing the scheme file. Transforming XML...",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }
