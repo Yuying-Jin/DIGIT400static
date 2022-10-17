@@ -12,7 +12,9 @@
             "pos" : 60,
             "context" : "...author Virginia Woolf in XML. Editing the scheme file. <mark>Transforming<\/mark> XML to HTML in XSLT.",
             "in" : 
-            [ "ssCtx3" ] } ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -24,4 +26,5 @@
             "pos" : 34,
             "context" : "...author Virginia Woolf in XML. Editing the scheme file. <mark>Transforming<\/mark> XML to HTML in XSLT. GitHub ",
             "in" : 
-            [ "ssCtx3" ] } ] } ] }
+            [ "ssCtx3",
+              "ssCtx2" ] } ] } ] }

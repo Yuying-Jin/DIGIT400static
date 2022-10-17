@@ -17,7 +17,8 @@
             "pos" : 45,
             "context" : "  Weldon's Portfolio Site A portfolio site that showcases <mark>projects<\/mark> made for various video games in EJS and CSS.My...",
             "in" : 
-            [ "ssCtx3" ] } ] },
+            [ "ssCtx3",
+              "ssCtx2" ] } ] },
       
       { "docId" : "about",
         "docUri" : "about.html",

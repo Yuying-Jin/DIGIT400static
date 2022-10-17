@@ -12,28 +12,36 @@
             "pos" : 56,
             "context" : "...up the short story by the English author Virginia Woolf in <mark>XML<\/mark>. Editing the scheme file. Transforming XML to HTML in...",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] },
           
           { "form" : "XML",
             "weight" : "1",
             "pos" : 61,
             "context" : "...Virginia Woolf in XML. Editing the scheme file. Transforming <mark>XML<\/mark> to HTML in XSLT.",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] },
           
           { "form" : "XML",
             "weight" : "1",
             "pos" : 90,
             "context" : "oXygen <mark>XML<\/mark>",
             "in" : 
-            [ "ssCtx2" ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx1" ] },
           
           { "form" : "XML",
             "weight" : "1",
             "pos" : 108,
             "context" : "<mark>XML<\/mark>",
             "in" : 
-            [ "ssCtx2" ] } ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx1" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -45,18 +53,21 @@
             "pos" : 6,
             "context" : "  Kew Gardens Using <mark>XML<\/mark>, Relax-NG, XSLT, and HTML to transcribe...",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "XML",
             "weight" : "1",
             "pos" : 30,
             "context" : "...up the short story by the English author Virginia Woolf in <mark>XML<\/mark>. Editing the scheme file. Transforming XML to HTML in...",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "XML",
             "weight" : "1",
             "pos" : 35,
             "context" : "...Virginia Woolf in XML. Editing the scheme file. Transforming <mark>XML<\/mark> to HTML in XSLT. GitHub ",
             "in" : 
-            [ "ssCtx3" ] } ] } ] }
+            [ "ssCtx3",
+              "ssCtx2" ] } ] } ] }

@@ -33,14 +33,19 @@
           { "form" : "Designing",
             "weight" : "1",
             "pos" : 45,
-            "context" : "<mark>Designing<\/mark> and developing About page." },
+            "context" : "<mark>Designing<\/mark> and developing About page.",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] },
           
           { "form" : "Designing",
             "weight" : "1",
             "pos" : 64,
             "context" : "<mark>Designing<\/mark> and developing gallery page in EJS and CSS.",
             "in" : 
-            [ "ssCtx3" ] } ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -52,4 +57,5 @@
             "pos" : 53,
             "context" : "...various video games in EJS and CSS.My role - <mark>Designing<\/mark> and developing gallery page in EJS and CSS. GitHub ",
             "in" : 
-            [ "ssCtx3" ] } ] } ] }
+            [ "ssCtx3",
+              "ssCtx2" ] } ] } ] }

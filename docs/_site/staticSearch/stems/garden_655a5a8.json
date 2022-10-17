@@ -12,11 +12,13 @@
             "pos" : 4,
             "context" : "  Kew <mark>Gardens<\/mark> Using XML, Relax-NG, XSLT, and HTML...",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "Gardens",
             "weight" : "1",
             "pos" : 16,
             "context" : "..., XSLT, and HTML to transcribe the short story Kew <mark>Gardens<\/mark> by the English author Virginia Woolf.My role - Transcribing...",
             "in" : 
-            [ "ssCtx3" ] } ] } ] }
+            [ "ssCtx3",
+              "ssCtx2" ] } ] } ] }

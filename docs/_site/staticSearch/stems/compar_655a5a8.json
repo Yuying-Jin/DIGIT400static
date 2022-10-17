@@ -10,4 +10,7 @@
           { "form" : "compare",
             "weight" : "1",
             "pos" : 37,
-            "context" : "...coding problems. Using machine-assisted collation and XSLT to <mark>compare<\/mark> five versions of the novel Frankenstein." } ] } ] }
+            "context" : "...coding problems. Using machine-assisted collation and XSLT to <mark>compare<\/mark> five versions of the novel Frankenstein.",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] } ] } ] }

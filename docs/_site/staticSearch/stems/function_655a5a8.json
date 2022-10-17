@@ -12,14 +12,16 @@
             "pos" : 81,
             "context" : "  User-defined <mark>Function<\/mark> Tutorial Defining functions in XSLT. GitHub ",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "functions",
             "weight" : "1",
             "pos" : 84,
             "context" : "  User-defined Function Tutorial Defining <mark>functions<\/mark> in XSLT. GitHub ",
             "in" : 
-            [ "ssCtx3" ] } ] },
+            [ "ssCtx3",
+              "ssCtx2" ] } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
@@ -31,4 +33,6 @@
             "pos" : 87,
             "context" : "Defining how to define <mark>functions<\/mark> in XSLT.",
             "in" : 
-            [ "ssCtx3" ] } ] } ] }
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] } ] } ] }

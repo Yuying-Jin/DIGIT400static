@@ -10,4 +10,7 @@
           { "form" : "Frankenstein",
             "weight" : "1",
             "pos" : 41,
-            "context" : "...assisted collation and XSLT to compare five versions of the novel <mark>Frankenstein<\/mark>." } ] } ] }
+            "context" : "...assisted collation and XSLT to compare five versions of the novel <mark>Frankenstein<\/mark>.",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] } ] } ] }

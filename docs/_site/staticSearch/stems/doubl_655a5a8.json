@@ -10,4 +10,7 @@
           { "form" : "Double",
             "weight" : "1",
             "pos" : 10,
-            "context" : "  <mark>Double<\/mark> major in:     " } ] } ] }
+            "context" : "  <mark>Double<\/mark> major in:     ",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] } ] } ] }

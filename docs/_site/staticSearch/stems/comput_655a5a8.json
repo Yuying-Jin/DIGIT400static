@@ -45,4 +45,7 @@
           { "form" : "Computer",
             "weight" : "1",
             "pos" : 12,
-            "context" : "<mark>Computer<\/mark> Science, Bachelor of Science" } ] } ] }
+            "context" : "<mark>Computer<\/mark> Science, Bachelor of Science",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] } ] } ] }

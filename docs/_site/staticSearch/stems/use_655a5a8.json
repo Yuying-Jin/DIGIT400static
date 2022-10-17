@@ -12,14 +12,16 @@
             "pos" : 5,
             "context" : "  Kew Gardens <mark>Using<\/mark> XML, Relax-NG, XSLT, and HTML to...",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "using",
             "weight" : "1",
             "pos" : 74,
             "context" : "...-dasharray attribute and how to label them with polar coordinates <mark>using<\/mark> SVG and XSLT. GitHub ",
             "in" : 
-            [ "ssCtx3" ] } ] },
+            [ "ssCtx3",
+              "ssCtx2" ] } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
@@ -29,4 +31,7 @@
           { "form" : "Using",
             "weight" : "1",
             "pos" : 31,
-            "context" : "Inspecting, identifying, and solving coding problems. <mark>Using<\/mark> machine-assisted collation and XSLT to compare five versions of..." } ] } ] }
+            "context" : "Inspecting, identifying, and solving coding problems. <mark>Using<\/mark> machine-assisted collation and XSLT to compare five versions of...",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] } ] } ] }

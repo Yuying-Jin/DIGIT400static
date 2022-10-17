@@ -21,4 +21,7 @@
           { "form" : "problems",
             "weight" : "1",
             "pos" : 30,
-            "context" : "Inspecting, identifying, and solving coding <mark>problems<\/mark>. Using machine-assisted collation and XSLT to compare five..." } ] } ] }
+            "context" : "Inspecting, identifying, and solving coding <mark>problems<\/mark>. Using machine-assisted collation and XSLT to compare five...",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] } ] } ] }

@@ -12,14 +12,18 @@
             "pos" : 85,
             "context" : "<mark>Defining<\/mark> how to define functions in XSLT.",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] },
           
           { "form" : "define",
             "weight" : "1",
             "pos" : 86,
             "context" : "Defining how to <mark>define<\/mark> functions in XSLT.",
             "in" : 
-            [ "ssCtx3" ] } ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -31,11 +35,13 @@
             "pos" : 80,
             "context" : "  User-<mark>defined<\/mark> Function Tutorial Defining functions in XSLT. GitHub ",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "Defining",
             "weight" : "1",
             "pos" : 83,
             "context" : "  User-defined Function Tutorial <mark>Defining<\/mark> functions in XSLT. GitHub ",
             "in" : 
-            [ "ssCtx3" ] } ] } ] }
+            [ "ssCtx3",
+              "ssCtx2" ] } ] } ] }

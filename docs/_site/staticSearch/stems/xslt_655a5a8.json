@@ -10,35 +10,46 @@
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 36,
-            "context" : "...and solving coding problems. Using machine-assisted collation and <mark>XSLT<\/mark> to compare five versions of the novel Frankenstein." },
+            "context" : "...and solving coding problems. Using machine-assisted collation and <mark>XSLT<\/mark> to compare five versions of the novel Frankenstein.",
+            "in" : 
+            [ "ssCtx4",
+              "ssCtx4" ] },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 63,
             "context" : ".... Editing the scheme file. Transforming XML to HTML in <mark>XSLT<\/mark>.",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 84,
             "context" : "...SVG. Labeling pie charts with polar coordinates in SVG and <mark>XSLT<\/mark>.",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 88,
             "context" : "Defining how to define functions in <mark>XSLT<\/mark>.",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx2" ] },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 111,
             "context" : "<mark>XSLT<\/mark>",
             "in" : 
-            [ "ssCtx2" ] } ] },
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx1" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
@@ -50,25 +61,29 @@
             "pos" : 10,
             "context" : "  Kew Gardens Using XML, Relax-NG, <mark>XSLT<\/mark>, and HTML to transcribe the short story Kew Gardens by...",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 37,
             "context" : ".... Editing the scheme file. Transforming XML to HTML in <mark>XSLT<\/mark>. GitHub ",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 76,
             "context" : "...and how to label them with polar coordinates using SVG and <mark>XSLT<\/mark>. GitHub ",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "XSLT",
             "weight" : "1",
             "pos" : 85,
             "context" : "  User-defined Function Tutorial Defining functions in <mark>XSLT<\/mark>. GitHub ",
             "in" : 
-            [ "ssCtx3" ] } ] } ] }
+            [ "ssCtx3",
+              "ssCtx2" ] } ] } ] }

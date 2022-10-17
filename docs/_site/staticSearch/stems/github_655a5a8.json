@@ -12,28 +12,32 @@
             "pos" : 38,
             "context" : "...the scheme file. Transforming XML to HTML in XSLT. <mark>GitHub<\/mark> ",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "GitHub",
             "weight" : "1",
             "pos" : 59,
             "context" : "...- Designing and developing gallery page in EJS and CSS. <mark>GitHub<\/mark> ",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "GitHub",
             "weight" : "1",
             "pos" : 77,
             "context" : "...to label them with polar coordinates using SVG and XSLT. <mark>GitHub<\/mark> ",
             "in" : 
-            [ "ssCtx3" ] },
+            [ "ssCtx3",
+              "ssCtx2" ] },
           
           { "form" : "GitHub",
             "weight" : "1",
             "pos" : 86,
             "context" : "  User-defined Function Tutorial Defining functions in XSLT. <mark>GitHub<\/mark> ",
             "in" : 
-            [ "ssCtx3" ] } ] },
+            [ "ssCtx3",
+              "ssCtx2" ] } ] },
       
       { "docId" : "cv",
         "docUri" : "cv.html",
@@ -45,4 +49,6 @@
             "pos" : 93,
             "context" : "Git &amp; <mark>GitHub<\/mark>",
             "in" : 
-            [ "ssCtx2" ] } ] } ] }
+            [ "ssCtx4",
+              "ssCtx4",
+              "ssCtx1" ] } ] } ] }
