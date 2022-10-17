@@ -13,7 +13,6 @@
             "context" : "Drawing <mark>pie<\/mark> charts with stroke-dasharray attribute in SVG. Labeling pie...",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] },
           
           { "form" : "pie",
@@ -22,26 +21,17 @@
             "context" : "...pie charts with stroke-dasharray attribute in SVG. Labeling <mark>pie<\/mark> charts with polar coordinates in SVG and XSLT.",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
         "docUri" : "gallery.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
-          { "form" : "Pie",
-            "weight" : "1",
-            "pos" : 60,
-            "context" : "  <mark>Pie<\/mark> Chart Tutorial Introducing how to draw pie charts with stroke-...",
-            "in" : 
-            [ "ssCtx3",
-              "ssCtx2" ] },
-          
           { "form" : "pie",
             "weight" : "1",
-            "pos" : 65,
-            "context" : "  Pie Chart Tutorial Introducing how to draw <mark>pie<\/mark> charts with stroke-dasharray attribute and how to label them...",
+            "pos" : 55,
+            "context" : "  Introducing how to draw <mark>pie<\/mark> charts with stroke-dasharray attribute and how to label them...",
             "in" : 
             [ "ssCtx3",
               "ssCtx2" ] } ] } ] }

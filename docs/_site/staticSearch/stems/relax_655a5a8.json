@@ -13,7 +13,6 @@
             "context" : "<mark>Relax<\/mark> NG",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx1" ] } ] },
       
       { "docId" : "gallery",
@@ -23,8 +22,8 @@
         [ 
           { "form" : "Relax",
             "weight" : "1",
-            "pos" : 8,
-            "context" : "  Kew Gardens Using XML, <mark>Relax<\/mark>-NG, XSLT, and HTML to transcribe the short...",
+            "pos" : 4,
+            "context" : "  Using XML, <mark>Relax<\/mark>-NG, XSLT, and HTML to transcribe the short...",
             "in" : 
             [ "ssCtx3",
               "ssCtx2" ] } ] } ] }

@@ -13,7 +13,6 @@
             "context" : "<mark>Drawing<\/mark> pie charts with stroke-dasharray attribute in SVG. Labeling...",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
@@ -23,8 +22,8 @@
         [ 
           { "form" : "draw",
             "weight" : "1",
-            "pos" : 64,
-            "context" : "  Pie Chart Tutorial Introducing how to <mark>draw<\/mark> pie charts with stroke-dasharray attribute and how to label...",
+            "pos" : 54,
+            "context" : "  Introducing how to <mark>draw<\/mark> pie charts with stroke-dasharray attribute and how to label...",
             "in" : 
             [ "ssCtx3",
               "ssCtx2" ] } ] } ] }

@@ -9,7 +9,7 @@
         [ 
           { "form" : "transcribe",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 8,
             "context" : "...XML, Relax-NG, XSLT, and HTML to <mark>transcribe<\/mark> the short story Kew Gardens by the English author Virginia Woolf...",
             "in" : 
             [ "ssCtx3",
@@ -17,7 +17,7 @@
           
           { "form" : "Transcribing",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 18,
             "context" : "...Gardens by the English author Virginia Woolf.My role - <mark>Transcribing<\/mark> and marking up the short story by the English author Virginia...",
             "in" : 
             [ "ssCtx3",
@@ -34,5 +34,4 @@
             "context" : "<mark>Transcribing<\/mark> and marking up the short story by the English author Virginia...",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] } ] } ] }

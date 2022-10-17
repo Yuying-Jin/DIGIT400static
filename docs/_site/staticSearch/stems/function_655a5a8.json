@@ -2,27 +2,6 @@
   { "stem" : "function",
     "instances" : 
     [ 
-      { "docId" : "gallery",
-        "docUri" : "gallery.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Function",
-            "weight" : "1",
-            "pos" : 81,
-            "context" : "  User-defined <mark>Function<\/mark> Tutorial Defining functions in XSLT. GitHub ",
-            "in" : 
-            [ "ssCtx3",
-              "ssCtx2" ] },
-          
-          { "form" : "functions",
-            "weight" : "1",
-            "pos" : 84,
-            "context" : "  User-defined Function Tutorial Defining <mark>functions<\/mark> in XSLT. GitHub ",
-            "in" : 
-            [ "ssCtx3",
-              "ssCtx2" ] } ] },
-      
       { "docId" : "cv",
         "docUri" : "cv.html",
         "score" : 1,
@@ -34,5 +13,17 @@
             "context" : "Defining how to define <mark>functions<\/mark> in XSLT.",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
+              "ssCtx2" ] } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "functions",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "  Defining <mark>functions<\/mark> in XSLT. GitHub ",
+            "in" : 
+            [ "ssCtx3",
               "ssCtx2" ] } ] } ] }

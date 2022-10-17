@@ -13,7 +13,6 @@
             "context" : "...in XML. Editing the scheme file. Transforming XML to <mark>HTML<\/mark> in XSLT.",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] },
           
           { "form" : "HTML",
@@ -22,7 +21,6 @@
             "context" : "<mark>HTML<\/mark> &amp; CSS",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx1" ] } ] },
       
       { "docId" : "gallery",
@@ -32,15 +30,15 @@
         [ 
           { "form" : "HTML",
             "weight" : "1",
-            "pos" : 11,
-            "context" : "...Gardens Using XML, Relax-NG, XSLT, and <mark>HTML<\/mark> to transcribe the short story Kew Gardens by the English author...",
+            "pos" : 7,
+            "context" : "  Using XML, Relax-NG, XSLT, and <mark>HTML<\/mark> to transcribe the short story Kew Gardens by the English author...",
             "in" : 
             [ "ssCtx3",
               "ssCtx2" ] },
           
           { "form" : "HTML",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 32,
             "context" : "...in XML. Editing the scheme file. Transforming XML to <mark>HTML<\/mark> in XSLT. GitHub ",
             "in" : 
             [ "ssCtx3",

@@ -12,8 +12,7 @@
             "pos" : 46,
             "context" : "Designing and <mark>developing<\/mark> About page.",
             "in" : 
-            [ "ssCtx4",
-              "ssCtx4" ] },
+            [ "ssCtx4" ] },
           
           { "form" : "developing",
             "weight" : "1",
@@ -21,7 +20,6 @@
             "context" : "Designing and <mark>developing<\/mark> gallery page in EJS and CSS.",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
@@ -31,7 +29,7 @@
         [ 
           { "form" : "developing",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 47,
             "context" : "...games in EJS and CSS.My role - Designing and <mark>developing<\/mark> gallery page in EJS and CSS. GitHub ",
             "in" : 
             [ "ssCtx3",

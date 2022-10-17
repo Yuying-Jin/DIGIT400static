@@ -13,7 +13,6 @@
             "context" : "Designing and developing gallery page in EJS and <mark>CSS<\/mark>.",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] },
           
           { "form" : "CSS",
@@ -22,7 +21,6 @@
             "context" : "HTML &amp; <mark>CSS<\/mark>",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx1" ] } ] },
       
       { "docId" : "gallery",
@@ -32,7 +30,7 @@
         [ 
           { "form" : "CSS",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 44,
             "context" : "...that showcases projects made for various video games in EJS and <mark>CSS<\/mark>.My role - Designing and developing gallery page in EJS...",
             "in" : 
             [ "ssCtx3",
@@ -40,7 +38,7 @@
           
           { "form" : "CSS",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 51,
             "context" : "...My role - Designing and developing gallery page in EJS and <mark>CSS<\/mark>. GitHub ",
             "in" : 
             [ "ssCtx3",

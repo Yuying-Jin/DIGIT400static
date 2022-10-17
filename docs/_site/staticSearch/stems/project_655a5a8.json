@@ -2,24 +2,6 @@
   { "stem" : "project",
     "instances" : 
     [ 
-      { "docId" : "gallery",
-        "docUri" : "gallery.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Projects",
-            "weight" : "1",
-            "pos" : 2,
-            "context" : "  My Digital <mark>Projects<\/mark>        " },
-          
-          { "form" : "projects",
-            "weight" : "1",
-            "pos" : 45,
-            "context" : "  Weldon's Portfolio Site A portfolio site that showcases <mark>projects<\/mark> made for various video games in EJS and CSS.My...",
-            "in" : 
-            [ "ssCtx3",
-              "ssCtx2" ] } ] },
-      
       { "docId" : "about",
         "docUri" : "about.html",
         "score" : 1,
@@ -29,4 +11,17 @@
             "weight" : "1",
             "pos" : 114,
             "context" : "DIGIT 400 - Digital <mark>Project<\/mark> Design",
-            "fid" : "about" } ] } ] }
+            "fid" : "about" } ] },
+      
+      { "docId" : "gallery",
+        "docUri" : "gallery.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "projects",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "  A portfolio site that showcases <mark>projects<\/mark> made for various video games in EJS and CSS.My...",
+            "in" : 
+            [ "ssCtx3",
+              "ssCtx2" ] } ] } ] }

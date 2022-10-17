@@ -9,8 +9,8 @@
         [ 
           { "form" : "made",
             "weight" : "1",
-            "pos" : 46,
-            "context" : "  Weldon's Portfolio Site A portfolio site that showcases projects <mark>made<\/mark> for various video games in EJS and CSS.My role...",
+            "pos" : 39,
+            "context" : "  A portfolio site that showcases projects <mark>made<\/mark> for various video games in EJS and CSS.My role...",
             "in" : 
             [ "ssCtx3",
               "ssCtx2" ] } ] } ] }

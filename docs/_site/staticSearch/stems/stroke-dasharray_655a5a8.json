@@ -13,7 +13,6 @@
             "context" : "Drawing pie charts with <mark>stroke-dasharray<\/mark> attribute in SVG. Labeling pie charts with polar coordinates in...",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
@@ -23,8 +22,8 @@
         [ 
           { "form" : "stroke-dasharray",
             "weight" : "1",
-            "pos" : 67,
-            "context" : "  Pie Chart Tutorial Introducing how to draw pie charts with <mark>stroke-dasharray<\/mark> attribute and how to label them with polar coordinates using SVG...",
+            "pos" : 57,
+            "context" : "  Introducing how to draw pie charts with <mark>stroke-dasharray<\/mark> attribute and how to label them with polar coordinates using SVG...",
             "in" : 
             [ "ssCtx3",
               "ssCtx2" ] } ] } ] }

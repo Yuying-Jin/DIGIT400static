@@ -13,7 +13,6 @@
             "context" : "<mark>Adobe<\/mark> After Effects",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx1" ] },
           
           { "form" : "Adobe",
@@ -22,5 +21,4 @@
             "context" : "<mark>Adobe<\/mark> Photoshop",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx1" ] } ] } ] }

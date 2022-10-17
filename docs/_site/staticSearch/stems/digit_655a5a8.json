@@ -83,23 +83,11 @@
             "pos" : 16,
             "context" : "<mark>Digital<\/mark> Media, Arts, and Technology (DIGIT), Bachelor of...",
             "in" : 
-            [ "ssCtx4",
-              "ssCtx4" ] },
+            [ "ssCtx4" ] },
           
           { "form" : "DIGIT",
             "weight" : "1",
             "pos" : 20,
             "context" : "Digital Media, Arts, and Technology (<mark>DIGIT<\/mark>), Bachelor of Art",
             "in" : 
-            [ "ssCtx4",
-              "ssCtx4" ] } ] },
-      
-      { "docId" : "gallery",
-        "docUri" : "gallery.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Digital",
-            "weight" : "1",
-            "pos" : 1,
-            "context" : "  My <mark>Digital<\/mark> Projects        " } ] } ] }
+            [ "ssCtx4" ] } ] } ] }

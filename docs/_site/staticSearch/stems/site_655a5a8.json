@@ -4,21 +4,13 @@
     [ 
       { "docId" : "gallery",
         "docUri" : "gallery.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
-          { "form" : "Site",
-            "weight" : "1",
-            "pos" : 41,
-            "context" : "  Weldon's Portfolio <mark>Site<\/mark> A portfolio site that showcases projects made for various video games...",
-            "in" : 
-            [ "ssCtx3",
-              "ssCtx2" ] },
-          
           { "form" : "site",
             "weight" : "1",
-            "pos" : 43,
-            "context" : "  Weldon's Portfolio Site A portfolio <mark>site<\/mark> that showcases projects made for various video games in EJS and...",
+            "pos" : 36,
+            "context" : "  A portfolio <mark>site<\/mark> that showcases projects made for various video games in EJS and...",
             "in" : 
             [ "ssCtx3",
               "ssCtx2" ] } ] } ] }

@@ -13,7 +13,6 @@
             "context" : "...the English author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT.",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
@@ -23,7 +22,7 @@
         [ 
           { "form" : "file",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 29,
             "context" : "...the English author Virginia Woolf in XML. Editing the scheme <mark>file<\/mark>. Transforming XML to HTML in XSLT. GitHub ",
             "in" : 
             [ "ssCtx3",

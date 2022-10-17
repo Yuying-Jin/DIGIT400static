@@ -12,16 +12,14 @@
             "pos" : 18,
             "context" : "Digital Media, <mark>Arts<\/mark>, and Technology (DIGIT), Bachelor of Art",
             "in" : 
-            [ "ssCtx4",
-              "ssCtx4" ] },
+            [ "ssCtx4" ] },
           
           { "form" : "Art",
             "weight" : "1",
             "pos" : 22,
             "context" : "...Media, Arts, and Technology (DIGIT), Bachelor of <mark>Art<\/mark>",
             "in" : 
-            [ "ssCtx4",
-              "ssCtx4" ] } ] },
+            [ "ssCtx4" ] } ] },
       
       { "docId" : "about",
         "docUri" : "about.html",

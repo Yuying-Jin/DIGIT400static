@@ -13,7 +13,6 @@
             "context" : "Designing and developing <mark>gallery<\/mark> page in EJS and CSS.",
             "in" : 
             [ "ssCtx4",
-              "ssCtx4",
               "ssCtx2" ] } ] },
       
       { "docId" : "gallery",
@@ -23,7 +22,7 @@
         [ 
           { "form" : "gallery",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 48,
             "context" : "...in EJS and CSS.My role - Designing and developing <mark>gallery<\/mark> page in EJS and CSS. GitHub ",
             "in" : 
             [ "ssCtx3",
