@@ -1,4 +1,4 @@
-# INSTALL NOSE in Ubuntu
+# INSTALL NOSE on Ubuntu
 
 ## Why to edit this note?
 
@@ -10,7 +10,7 @@ This note also includes the other problem `Attribute Error` when I running `nose
 
 ## How to solve the two problems
 
-I try to install Nose in Ubuntu without special reason. 
+I try to install Nose on Ubuntu without special reason. 
 
 ### Installation
 
