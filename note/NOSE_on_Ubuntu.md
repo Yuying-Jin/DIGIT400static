@@ -18,17 +18,19 @@ I try to install Nose on Ubuntu without special reason.
 
 ### Locate Nose we installing
 
-- run `sudo pip install nose` again. 
+Ubuntu does not visit the default file path to Nose when we run `nosetests`, so we need to copy the directory of Nose to `/usr/local/bin`.
+
+- run `sudo pip install nose` again to get the file path to Nose
   - In my case, I get `Requirement already satisfied: nose in /usr/local/lib/python3.10/dist-packages (1.3.7)`. 
-  -  `/usr/local/lib/python3.10` is the installation path.
-- Navigate to the installation path
+  -  `/usr/local/lib/python3.10` is the file path to Nose.
+- Navigate to the file path to Nose
   - In my case, I run  `cd /usr/local/lib/python3.10`.
 - Run `ls` to list what we have in this directory
-  - In my case, I have got `nose` and `nose-1.3.7.dist-info`
+  - In my case, I have got two directories `nose` and `nose-1.3.7.dist-info`
 - Run `cp nose /usr/local/bin` [*[source]*](https://www.cnblogs.com/meina/p/13570416.html)
-  - Thus, Nose can be found.
+  - Thus, Nose can be found by Ubuntu.
 
-### AttributeError
+### Attribute Error
 
 - Run `nosetests`
   - We might meet another problem  `AttributeError: module 'collections' has no attribute 'Callable'`
@@ -41,11 +43,9 @@ I try to install Nose on Ubuntu without special reason.
 
 - Run `nano suite.py` or `sudo nano suite.py`
 
-- Type `ctrl` + `/` to replace all `collections.Callable` to `collections.abc.Callable` [*[source]*](https://stackoverflow.com/questions/69515086/error-attributeerror-collections-has-no-attribute-callable-using-beautifu)
+- Press `ctrl` + `/` to replace all `collections.Callable` to `collections.abc.Callable` [*[source]*](https://stackoverflow.com/questions/69515086/error-attributeerror-collections-has-no-attribute-callable-using-beautifu)
 
-- Type `ctrl` +`x` and type `y` to save the change
-
-- Type `Enter` to save the file name
+- Press`ctrl` +`x` , press `y` , and press `Enter` to save the change
 
 - Run `nosetests`
 

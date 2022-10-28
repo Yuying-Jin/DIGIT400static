@@ -67,7 +67,7 @@ The search page looks like below:![staticsearch](staticsearch.JPG)
 
    - Press `ctrl` + `X` and press `Enter` to save changes
 
-   - Run `source/etc/environment` to reflect changes
+   - Run `source /etc/environment` to reflect changes
 
 
 ## Create a static search page
