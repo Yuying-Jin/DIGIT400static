@@ -10,7 +10,7 @@ This note also includes other problems `AttributeError` and `ModuleNOTFoundError
 
 ## How to solve the problems
 
-I try to install Nose on Ubuntu here because Windows is confusing. 
+I try to install Nose on Ubuntu because it is confusing that how Windows can locate Nose.
 
 ### Installation
 
