@@ -1,16 +1,16 @@
-# INSTALL NOSE on Ubuntu
+# Run NOSE on Ubuntu
 
 ## Why to edit this note?
 
-I edit this note because I meet two problems when I run Nose with git bash or Ubuntu for the first time.
+I edit this note because I meet some problems when I run Nose with git bash or Ubuntu for the first time.
 
 After installing nose by running `pip install nose` , I run `nosetests` or `nosetests --version `, and bash returns `bash: nosetests: command not found`. It seems that the installation failed. Ubuntu also return the same error.
 
-This note also includes the other problem `Attribute Error` when I running `nosetests` after that Ubuntu can locate Nose.
+This note also includes other problems `AttributeError` and `ModuleNOTFoundError` when I running `nosetests` after that Ubuntu can locate Nose.
 
-## How to solve the two problems
+## How to solve the problems
 
-I try to install Nose on Ubuntu without special reason. 
+I try to install Nose on Ubuntu here because Windows is confusing. 
 
 ### Installation
 
@@ -35,20 +35,29 @@ Ubuntu does not visit the default file path to Nose when we run `nosetests`, so 
 - Run `nosetests`
   - We might meet another problem  `AttributeError: module 'collections' has no attribute 'Callable'`
 
-    ![](attributeError.JPG)
+  - In this image, we can see the error is in suite.py.
 
-  - We can see the error is in suite.py.
+    ![](attributeError.JPG)
 
 - Run `cd nose`
 
 - Run `nano suite.py` or `sudo nano suite.py`
 
-- Press `ctrl` + `/` to replace all `collections.Callable` to `collections.abc.Callable` [*[source]*](https://stackoverflow.com/questions/69515086/error-attributeerror-collections-has-no-attribute-callable-using-beautifu)
+- Press `ctrl` + `\` to replace all `collections.Callable` to `collections.abc.Callable` [*[source]*](https://stackoverflow.com/questions/69515086/error-attributeerror-collections-has-no-attribute-callable-using-beautifu)
 
 - Press`ctrl` +`x` , press `y` , and press `Enter` to save the change
 
-- Run `nosetests`
+- Run `nosetests` and continue to replace `collections.Callable` in python scripts shown
 
-  - It is OK.
-	![](Done.JPG)
+- When all `collections.Callable` are replaced to `collections.abc.Callable`,  it is OK to do test.
+
+  ![](Done.JPG)
+
+### Module NOT Found Error
+
+Run `nosetests <file_name.py>` in project directory, we might get module not found error as shown in the image below. 
+
+![](module.JPG)
+
+We need to install all modules not found with `Run pip install <module_name>`
 
